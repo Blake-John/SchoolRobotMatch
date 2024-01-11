@@ -1,0 +1,6 @@
+/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/build/CMakeFiles/rebuild_cache.dir
+/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/build/CMakeFiles/edit_cache.dir
+/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/build/CMakeFiles/main.dir
+/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/build/process/CMakeFiles/rebuild_cache.dir
+/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/build/process/CMakeFiles/edit_cache.dir
+/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/build/process/CMakeFiles/process.dir
