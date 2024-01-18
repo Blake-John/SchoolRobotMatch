@@ -6,5 +6,5 @@ CXX_FLAGS = -g
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/process/include -isystem /usr/local/include/opencv4 
+CXX_INCLUDES = -I/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/process/include -I/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/mathfunc/./inc -isystem /usr/local/include/opencv4 
 

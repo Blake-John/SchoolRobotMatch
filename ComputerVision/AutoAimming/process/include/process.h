@@ -6,7 +6,7 @@
 
 #define log(x) std::cout << x << std::endl;
 
-cv::Mat preprocess (cv::Mat, cv::Mat);
-std::vector <cv::Mat> getStandard (cv::Mat, cv::Mat);
-std::vector <std::vector <cv::Scalar>> getColorRange (std::vector <cv::Mat>, int);
-cv::Rect Aim (cv::Mat, std::vector <cv::Scalar>);
+cv::Mat preprocess (cv::Mat img_in, cv::Mat img_out);
+std::vector <cv::Mat> getStandard (cv::Mat img_pre, cv::Mat img);
+std::vector <std::vector <cv::Scalar>> getColorRange (std::vector <cv::Mat> myStandard, int threshold)
+cv::Rect Aim (cv::Mat img, std::vector <cv::Scalar> colorrange)

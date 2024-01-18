@@ -11,12 +11,14 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../process/include"
+  "../mathfunc/./inc"
   "/usr/local/include/opencv4"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
   "/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/build/process/CMakeFiles/process.dir/DependInfo.cmake"
+  "/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/build/mathfunc/CMakeFiles/mathfunc.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

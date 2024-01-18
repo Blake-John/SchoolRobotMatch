@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "main"
+			"path" : "tool/shoot"
 		}
 	],
 	"backtrace" : 1,
@@ -16,7 +16,7 @@
 		],
 		"files" : 
 		[
-			"CMakeLists.txt"
+			"tool/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -26,25 +26,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 8,
+				"line" : 1,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 11,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 13,
+				"line" : 7,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 10,
+				"line" : 6,
 				"parent" : 0
 			}
 		]
@@ -62,10 +56,6 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/blake/桌面/RobotMatch/ComputerVision/AutoAimming/process/include"
-				},
-				{
-					"backtrace" : 4,
 					"isSystem" : true,
 					"path" : "/usr/local/include/opencv4"
 				}
@@ -77,14 +67,7 @@
 			]
 		}
 	],
-	"dependencies" : 
-	[
-		{
-			"backtrace" : 3,
-			"id" : "process::@5d0e3935f49673735701"
-		}
-	],
-	"id" : "main::@6890427a1f51a3e7e1df",
+	"id" : "shoot::@3475fea270df04150876",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -137,11 +120,6 @@
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 3,
-				"fragment" : "process/libprocess.a",
-				"role" : "libraries"
-			},
-			{
 				"backtrace" : 2,
 				"fragment" : "/usr/local/lib/libopencv_imgcodecs.so.4.7.0",
 				"role" : "libraries"
@@ -164,76 +142,6 @@
 			{
 				"backtrace" : 2,
 				"fragment" : "/usr/local/lib/libopencv_flann.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_imgproc.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_core.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_highgui.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_ml.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_objdetect.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_photo.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_stitching.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_video.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_calib3d.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_dnn.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_features2d.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_flann.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_videoio.so.4.7.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/local/lib/libopencv_imgcodecs.so.4.7.0",
 				"role" : "libraries"
 			},
 			{
@@ -249,12 +157,12 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "main",
-	"nameOnDisk" : "main",
+	"name" : "shoot",
+	"nameOnDisk" : "shoot",
 	"paths" : 
 	{
-		"build" : ".",
-		"source" : "."
+		"build" : "tool",
+		"source" : "tool"
 	},
 	"sourceGroups" : 
 	[
@@ -271,7 +179,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.cpp",
+			"path" : "tool/shoot.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

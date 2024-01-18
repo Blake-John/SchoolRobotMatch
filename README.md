@@ -12,3 +12,11 @@
 * `Microcontroller` 用于存放电控的相关代码，电路板设计等资料
 * `MechanicalStructure` 用于存放小车的结构，模型等
 
+## ComputerVision
+### AutoAimming
+
+用于比赛时瞄准
+
+### GetDistance
+
+用于中期考核以及瞄准用的计算坐标

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmathfunc.a  CMakeFiles/mathfunc.dir/src/mathfunc.cpp.o
+/usr/bin/ranlib libmathfunc.a

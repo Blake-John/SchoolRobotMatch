@@ -136,6 +136,19 @@ process/fast:
 	$(MAKE) -f process/CMakeFiles/process.dir/build.make process/CMakeFiles/process.dir/build
 .PHONY : process/fast
 
+#=============================================================================
+# Target rules for targets named mathfunc
+
+# Build rule for target.
+mathfunc: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 mathfunc
+.PHONY : mathfunc
+
+# fast build rule for target.
+mathfunc/fast:
+	$(MAKE) -f mathfunc/CMakeFiles/mathfunc.dir/build.make mathfunc/CMakeFiles/mathfunc.dir/build
+.PHONY : mathfunc/fast
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -173,6 +186,7 @@ help:
 	@echo "... edit_cache"
 	@echo "... main"
 	@echo "... process"
+	@echo "... mathfunc"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

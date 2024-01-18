@@ -95,11 +95,11 @@ std::vector <cv::Mat> getStandard (cv::Mat img_pre, cv::Mat img)
     
     
     //? show the standard imgs
-    cv::imshow ("S0", myStandards[0]);log (0);
-    cv::imshow ("S1", myStandards[1]);log (1);
-    cv::imshow ("S2", myStandards[2]);log (2);
-    cv::imshow ("S3", myStandards[3]);log (3);
-    cv::imshow ("S4", myStandards[4]);log (4);
+    cv::imshow ("S0", myStandards[0]);
+    cv::imshow ("S1", myStandards[1]);
+    cv::imshow ("S2", myStandards[2]);
+    cv::imshow ("S3", myStandards[3]);
+    cv::imshow ("S4", myStandards[4]);
     
     
     return myStandards;
@@ -127,7 +127,7 @@ std::vector <std::vector <cv::Scalar>> getColorRange (std::vector <cv::Mat> mySt
         s = imgHSV.at<cv::Vec2b> (50, 50)[0]; //! s
         v = imgHSV.at<cv::Vec2b> (50, 50)[1]; //! v
         h = imgHSV.at<cv::Vec2b> (50, 50)[2]; //! h
-        log (h << " " << s << " " << v);
+        // log (h << " " << s << " " << v);
         
         int h_l, h_u, s_l, s_u, v_l, v_u;
 
@@ -152,10 +152,10 @@ std::vector <std::vector <cv::Scalar>> getColorRange (std::vector <cv::Mat> mySt
         
     }
 
-    for (int i = 0; i < ColorRange.size (); i++)
-    {
-        std::cout << ColorRange[i][0] << " " << ColorRange[i][1];
-    }
+    // for (int i = 0; i < ColorRange.size (); i++)
+    // {
+    //     std::cout << ColorRange[i][0] << " " << ColorRange[i][1] << std::endl;;
+    // }
     
     return ColorRange;
 }
