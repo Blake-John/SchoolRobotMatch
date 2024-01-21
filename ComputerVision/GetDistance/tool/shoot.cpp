@@ -6,7 +6,7 @@
 /// @return 
 int main ()
 {
-    cv::VideoCapture cap (0);
+    cv::VideoCapture cap (2);
     cv::Mat img;
     cap.set (cv::CAP_PROP_FRAME_WIDTH, 1080);
     cap.set (cv::CAP_PROP_FRAME_HEIGHT, 720);
@@ -23,7 +23,7 @@ int main ()
         
     }
     
-    cv::imwrite ("../../3.jpg", img);
+    cv::imwrite ("../../4.jpg", img);
 
     return 0;
 }

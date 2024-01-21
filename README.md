@@ -15,8 +15,12 @@
 ## ComputerVision
 ### AutoAimming
 
-用于比赛时瞄准
+用于比赛时视觉方面获取目标以及瞄准顺序
 
 ### GetDistance
 
 用于中期考核以及瞄准用的计算坐标
+
+### GetAngle
+
+用于瞄准的偏角计算模块
