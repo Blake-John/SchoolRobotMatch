@@ -16,7 +16,7 @@ d_a D_A (cv::Mat img, double true_x, double true_y, cv::Point C, bool to_dilate,
     imgWarp = warpTarget (img, points, true_x, true_y);
 
     // get the distance
-    double distance = getDistance (imgWarp, true_x, true_y, u, focus);
+    double distance = getDistance (imgWarp, true_x, true_y, u, d);
     da.distance = distance;
 
     // get the center of the target
@@ -36,7 +36,7 @@ d_a D_A (cv::Mat img, double true_x, double true_y, cv::Point C, bool to_dilate,
     // calculate the angle by two methods
     std::vector <double> angle1, angle2;
     angle1 = getAngle1 (distance, true_deflection[0], true_deflection[1]);
-    angle2 = getAngle2 (dx, dy, u, focus);
+    angle2 = getAngle2 (dx, dy, u, d);
     da.angle = {(angle1[0] + angle2[0]) / 2, (angle1[1] + angle2[1]) / 2};
 
     return da;

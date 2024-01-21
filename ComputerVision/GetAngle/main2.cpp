@@ -6,7 +6,7 @@ int main ()
 {
     log ("Configuration Succeed !");
     cv::Mat img;
-    cv::VideoCapture cap (0);
+    cv::VideoCapture cap (1);
     cap.set (cv::CAP_PROP_FRAME_WIDTH, 1280);
     cap.set (cv::CAP_PROP_FRAME_HEIGHT, 720);
     d_a da;

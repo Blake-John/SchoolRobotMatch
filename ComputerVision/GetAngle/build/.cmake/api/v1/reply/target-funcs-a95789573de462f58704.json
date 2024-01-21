@@ -1,0 +1,116 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "funcs/libfuncs.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"funcs/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "D:/robot-match/ComputerVision/GetAngle/funcs/./inc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/robot-match/ComputerVision/GetAngle/process/./inc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/robot-match/ComputerVision/GetAngle/mathfunc/./inc"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "D:/opencv/build/install/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "mathfunc::@170a5f0bbb2d8bf257ff"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "process::@5d0e3935f49673735701"
+		}
+	],
+	"id" : "funcs::@95b5eac1c2e12741e2af",
+	"name" : "funcs",
+	"nameOnDisk" : "libfuncs.a",
+	"paths" : 
+	{
+		"build" : "funcs",
+		"source" : "funcs"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "funcs/src/funcs.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

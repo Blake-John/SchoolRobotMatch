@@ -64,10 +64,10 @@ cv::Point getCenter (std::vector <cv::Point> points)
  * @param true_x the true width of the target
  * @param true_y the true height of the target
  * @param pixel the pixel size of the camera
- * @param focus the focus of the camera
+ * @param d the distance from the CMOS to the lens of the camera
  * @return the mean distance derived from the distances in meter calculated by the width and height
 */
-double getDistance (cv::Mat imgWarp, double true_x, double true_y, double u, double focus)
+double getDistance (cv::Mat imgWarp, double true_x, double true_y, double u, double d)
 {
     double px = (double)imgWarp.size ().width * u * 0.000001;
     double py = (double)imgWarp.size ().height * u * 0.000001;
@@ -75,13 +75,13 @@ double getDistance (cv::Mat imgWarp, double true_x, double true_y, double u, dou
 
     if (px > py)
     {
-        D1 = focus / px * true_x;
-        D2 = focus / py * true_y;
+        D1 = d / px * true_x;
+        D2 = d / py * true_y;
     }
     else
     {
-        D1 = focus / py * true_x;
-        D2 = focus / px * true_y;
+        D1 = d / py * true_x;
+        D2 = d / px * true_y;
     }
     
 
@@ -135,12 +135,12 @@ std::vector <double> getAngle1 (double distance, double true_dx, double true_dy)
     return angle;
 }
 
-std::vector <double> getAngle2 (double dx, double dy, double u, double focus)
+std::vector <double> getAngle2 (double dx, double dy, double u, double d)
 {
     std::vector <double> angle;
     double anglex, angley;
-    anglex = std::atan (dx * u * 0.000001 / focus) * 180 / PI;
-    angley = std::atan (dy * u * 0.000001 / focus) * 180 / PI;
+    anglex = std::atan (dx * u * 0.000001 / d) * 180 / PI;
+    angley = std::atan (dy * u * 0.000001 / d) * 180 / PI;
 
     angle.push_back (anglex);
     angle.push_back (angley);

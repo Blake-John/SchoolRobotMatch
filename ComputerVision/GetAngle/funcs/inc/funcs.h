@@ -4,6 +4,7 @@
 
 #define u (double)3
 #define focus (double)0.0028
+#define d 0.0031945
 
 
 struct d_a
