@@ -1,3 +1,33 @@
+## 2024-01-25 12：05
+### 1. FEATURE 新增
+#### `SerialControl` :
+
+C++ 程序，实现 Linnux 通过程序与STM32串口进行通信。
+
+#### `SerialMCU` :
+
+C 程序，基于 STM32F103C8T6 芯片开发，实现了在OLED屏幕显示串口传来的具有特定包头包尾的数据包。
+
+#### `SerialPWM` :
+
+C 程序，基于 STM32F103C8T6 芯片开发，实现了根据上位机通过串口传来的数据包来控制舵机旋转，并将此次旋转角度显示在OLED屏幕上。
+
+### 2. CHANGE 变更
+无
+
+
+### 3. FIXED 修复
+无
+
+### 4. ILLUSTRATION 说明
+
+1. `SerialControl` 模块在 Linux 系统下开发，通过 CMake 编译，编译后的可执行文件存放于 `build/` 目录下。由于该模块为 **单文件** 模块，~~因此理论上可以直接在 Windows 系统上通过 VSCode 生成可执行文件并运行，但是还没有试过~~。
+> 更正：由于使用的是ubuntu的串口，因此Windows下并没有直接的串口相对于，无法直接运行
+
+2. `SerialMCU` 和 `SerialPWM` **不是通过 Keil5 来开发！！！** 而是 **通过 `Embedded IDE` 在 VSCode 上开发** ，并且通过 `openocd` 进行烧录。但是可以在 VSCode 中导出为 Keil5项目。
+
+---
+
 ## 2024-01-21 21：45
 ### 1. FEATURE 新增
 #### Calibration : 

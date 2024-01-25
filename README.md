@@ -12,6 +12,8 @@
 * `Microcontroller` 用于存放电控的相关代码，电路板设计等资料
 * `MechanicalStructure` 用于存放小车的结构，模型等
 
+> 详细信息请阅读 [CHANGELOG](CHANGELOG.md)
+
 ## 1. ComputerVision
 ### 1.1 AutoAimming
 
@@ -30,3 +32,16 @@
 用于测量相机的 **相距**
 
 > `param.csv` 用于存放相机的各种参数
+
+## 2. MicroController
+### 2.1 SerialControl
+
+串口通信模块，实现在 Linux 系统下，通过 C++ 程序与 STM32 通信
+
+### 2.2 SerialMCU
+
+接受信息模块，将接受到的特定数据包在OLED上显示
+
+### 2.3 SerialPWM
+
+接受信息，并控制舵机旋转
