@@ -8,5 +8,5 @@
 
 cv::Mat preprocess (cv::Mat img_in, cv::Mat img_out);
 std::vector <cv::Mat> getStandard (cv::Mat img_pre, cv::Mat img);
-std::vector <std::vector <cv::Scalar>> getColorRange (std::vector <cv::Mat> myStandard, int threshold)
-cv::Rect Aim (cv::Mat img, std::vector <cv::Scalar> colorrange)
+std::vector <std::vector <cv::Scalar>> getColorRange (std::vector <cv::Mat> myStandard, int threshold);
+cv::Rect Aim (cv::Mat img, std::vector <cv::Scalar> colorrange);

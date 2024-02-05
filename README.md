@@ -33,6 +33,10 @@
 
 > `param.csv` 用于存放相机的各种参数
 
+### 1.5 `Aim` 
+
+用于更加准确地获得 **目标色块**
+
 ## 2. MicroController
 ### 2.1 SerialControl
 
