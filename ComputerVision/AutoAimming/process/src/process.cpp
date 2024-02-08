@@ -5,43 +5,43 @@
 /// @param img_in 
 /// @param img_out 
 /// @return the preprocessed img
-// cv::Mat preprocess (cv::Mat img_in, cv::Mat img_out)
-// {
-    
-    
-//     cv::cvtColor (img_in, img_out, cv::COLOR_BGR2GRAY);
-//     cv::GaussianBlur (img_out, img_out, cv::Size (3, 3), 3, 3);
-//     cv::Canny (img_out, img_out, 100, 150);
-
-//     cv::Mat kernel = cv::getStructuringElement (cv::MORPH_RECT, cv::Size (1, 1));
-//     cv::dilate (img_out, img_out, kernel);
-
-//     return img_out;
-// }
 cv::Mat preprocess (cv::Mat img_in, cv::Mat img_out)
 {
-    cv::Mat sx, sy;
     
-    cv::Mat kernel = cv::getStructuringElement (cv::MORPH_RECT, cv::Size (3, 3));
-    // cv::GaussianBlur (img_in, img_out, cv::Size (3, 3), 0, 3);
-    // cv::cvtColor (img_in,img_out, cv::COLOR_BGR2HSV);
-    // cv::imshow ("HSV", img_out);
-    // cv::dilate (img_in, img_out, kernel);
-    // cv::imshow ("ERODE", img_out);
-    cv::pyrMeanShiftFiltering (img_in, img_out, 10, 25);
-    // cv::dilate (img_out, img_out, kernel);
-    cv::imshow ("MEAN", img_out);
-    // cv::Sobel (img_out, sx, img_in.depth (), 1, 0);
-    // cv::Sobel (img_out, sy, img_in.depth (), 0, 1);
-    // cv::addWeighted (sx, 0.5, sy, 0.5, 0.5, img_out);
-    cv::cvtColor (img_out, img_out, cv::COLOR_BGR2GRAY);
-    cv::imshow ("GRAY", img_out);
-    cv::Canny (img_out, img_out, 50, 150);
+    
+    cv::cvtColor (img_in, img_out, cv::COLOR_BGR2GRAY);
+    cv::GaussianBlur (img_out, img_out, cv::Size (3, 3), 3, 3);
+    cv::Canny (img_out, img_out, 100, 150);
 
+    cv::Mat kernel = cv::getStructuringElement (cv::MORPH_RECT, cv::Size (1, 1));
     cv::dilate (img_out, img_out, kernel);
 
     return img_out;
 }
+// cv::Mat preprocess (cv::Mat img_in, cv::Mat img_out)
+// {
+//     cv::Mat sx, sy;
+    
+//     cv::Mat kernel = cv::getStructuringElement (cv::MORPH_RECT, cv::Size (3, 3));
+//     // cv::GaussianBlur (img_in, img_out, cv::Size (3, 3), 0, 3);
+//     // cv::cvtColor (img_in,img_out, cv::COLOR_BGR2HSV);
+//     // cv::imshow ("HSV", img_out);
+//     // cv::dilate (img_in, img_out, kernel);
+//     // cv::imshow ("ERODE", img_out);
+//     cv::pyrMeanShiftFiltering (img_in, img_out, 10, 25);
+//     // cv::dilate (img_out, img_out, kernel);
+//     cv::imshow ("MEAN", img_out);
+//     // cv::Sobel (img_out, sx, img_in.depth (), 1, 0);
+//     // cv::Sobel (img_out, sy, img_in.depth (), 0, 1);
+//     // cv::addWeighted (sx, 0.5, sy, 0.5, 0.5, img_out);
+//     cv::cvtColor (img_out, img_out, cv::COLOR_BGR2GRAY);
+//     cv::imshow ("GRAY", img_out);
+//     cv::Canny (img_out, img_out, 50, 150);
+
+//     cv::dilate (img_out, img_out, kernel);
+
+//     return img_out;
+// }
 
 
 /// @brief get the standard pieces of the img by finding the color contours and choose the right contours by area, coordinate

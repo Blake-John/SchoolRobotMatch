@@ -5,7 +5,7 @@ int main ()
 {
     cv::Mat img, img_pre;
     int threshold = 10;
-    std::string path = "../imgs/2.jpg";
+    std::string path = "../imgs/1-2.png";
     std::vector <cv::Mat> myStandards;
     std::vector <std::vector <cv::Scalar>> ColorRanges;
 
