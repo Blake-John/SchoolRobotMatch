@@ -1,4 +1,5 @@
 #include "func.h"
+#define PI (double)3.1415926
 
 void order (std::vector <Result> &result, std::vector <std::vector <Result>> &target)
 {
@@ -44,4 +45,17 @@ void order (std::vector <Result> &result, std::vector <std::vector <Result>> &ta
         }
     }
     
+}
+
+std::vector <double> getAngle (double dx, double dy, double u, double d)
+{
+    std::vector <double> angle;
+    double anglex, angley;
+    anglex = std::atan (dx * u * 0.000001 / d) * 180 / PI;
+    angley = std::atan (dy * u * 0.000001 / d) * 180 / PI;
+
+    angle.push_back (anglex);
+    angle.push_back (angley);
+
+    return angle;
 }

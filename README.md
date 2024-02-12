@@ -47,7 +47,7 @@
 
 ### 1.8 `V2`
 
-未完成的程序，目标是使用 onnx 模型来实现瞄准
+通过 `pt` 转 `onnx` 来进行识别色块，按顺序在图像中标注并计算偏角。
 
 ## 2. MicroController
 ### 2.1 SerialControl
