@@ -1,7 +1,7 @@
 #include "yolov3.h"
 
 Yolo::Yolo (std::string modelpath) {
-    this->net = cv::dnn::readNetFromONNX (modelpath);
+    this->net = cv::dnn::readNet (modelpath);
 }
 
 cv::Mat Yolo::forward ()
@@ -26,7 +26,7 @@ Pred Yolo::getBboxes (cv::Mat output, int width, int height)
     for (int i = 0; i < output.rows; i++)
     {
         float confi = output.at<float> (i, 4);
-        if (confi < 0.9)
+        if (confi < 0.85)
         {
             continue;
         }
@@ -73,7 +73,7 @@ void Yolo::detect (cv::Mat img, std::vector <cv::Rect> &result)
     result = NMS (predi);
 }
 
-void Yolo::Detect (cv::Mat img, Result &result)
+void Yolo::Detect (cv::Mat img, std::vector <Result> &result)
 {
     // set the input img and forward
     cv::Mat blob = cv::dnn::blobFromImage (img, 1 / 255.0, cv::Size (640, 640), cv::Scalar (), true, false);
@@ -96,7 +96,7 @@ void Yolo::Detect (cv::Mat img, Result &result)
     for (int i = 0; i < output.rows; i++)
     {
         float confi = output.at<float> (i, 4);
-        if (confi < 0.7)
+        if (confi < 0.8)
         {
             continue;
         }
@@ -120,11 +120,10 @@ void Yolo::Detect (cv::Mat img, Result &result)
     }
     // NMS
     std::vector <int> indices;
-    cv::dnn::NMSBoxes (bboxes, confidences, 0.5, 0.5, indices);
+    cv::dnn::NMSBoxes (bboxes, confidences, 0.25, 0.45, indices);
     for (int i = 0; i < indices.size (); i++)
     {
-        result.bboxes.push_back (bboxes[indices[i]]);
-        result.confidences.push_back (confidences[indices[i]]);
-        result.classids.push_back (classids[indices[i]]);
+        Result res = {bboxes[indices[i]], confidences[indices[i]], classids[indices[i]]};
+        result.push_back (res);
     }
 }

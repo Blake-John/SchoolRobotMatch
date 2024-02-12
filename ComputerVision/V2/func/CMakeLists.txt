@@ -6,3 +6,4 @@ target_include_directories(func PUBLIC ${OpenCV_INCLUDE_DIRS})
 target_link_libraries(func ${OpenCV_LIBS})
 
 target_include_directories(func PUBLIC .)
+target_link_libraries(func yolov3)
