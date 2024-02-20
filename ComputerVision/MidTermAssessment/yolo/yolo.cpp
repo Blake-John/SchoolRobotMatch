@@ -1,5 +1,10 @@
 #include "yolo.h"
 
+/**
+ * @brief Construct a new Yolo object
+ * 
+ * @param modelpath ONNX模型路径
+ */
 Yolo::Yolo (std::string modelpath) {
     this->net = cv::dnn::readNetFromONNX (modelpath);
 }
@@ -66,6 +71,7 @@ Yolo::Yolo (std::string modelpath) {
 
 // void Yolo::detect (cv::Mat img, std::vector <cv::Rect> &result)
 // {
+//     // set the input img and forward
 //     cv::Mat blob = cv::dnn::blobFromImage (img, 1 / 255.0, cv::Size (640, 640), cv::Scalar (), true, false);
 //     this->net.setInput (blob);
 //     cv::Mat out = forward ();
@@ -73,6 +79,14 @@ Yolo::Yolo (std::string modelpath) {
 //     result = NMS (predi);
 // }
 
+
+/**
+ * @brief yolo 神经网络的检测函数，为了减少资源占用，将检测的函数合并成一个，若是需要分步的模块，可见 `yolo.cpp`。
+ * 大致思路为 设置输入图像，前向推理，过滤bbox，使用 NMS 获取置信度最高的bbox
+ * 
+ * @param img 输入的用于检测目标的图像，任意大小，1-3-4 颜色通道均可
+ * @param result 检测结果为引用，传出 目标检测框 ，检测框的置信度 ，目标分类id。result 为一个 `结构` ，声明于 `yolo.h` @ref `Result`
+ */
 void Yolo::Detect (cv::Mat img, std::vector <Result> &result)
 {
     // set the input img and forward
@@ -95,22 +109,28 @@ void Yolo::Detect (cv::Mat img, std::vector <Result> &result)
 
     for (int i = 0; i < output.rows; i++)
     {
-        float confi = output.at<float> (i, 4);
+        float confi = output.at<float> (i, 4); // get the confidence
+        // ignore the confidence bellow 0.8
         if (confi < 0.8)
         {
             continue;
         }
+
+        // get the center, width and height of the bbox
         float ocx = output.at<float> (i, 0);
         float ocy = output.at<float> (i, 1);
         float ow = output.at<float> (i, 2);
         float oh = output.at<float> (i, 3);
 
+        // convert the bbox from the img_size 640 to the normal size
         int cx = (ocx - ow * 0.5) * x_factor;
         int cy = (ocy - oh * 0.5) * y_factor;
         int w = ow * x_factor;
         int h = oh * y_factor;
 
+        // get the iterator of the output
         auto class_score = output.ptr<int>(i);
+        // get the max_score index through the iterator got above 
         int classid = std::max_element (class_score + 5, class_score + 13) - (class_score + 5);
         
         cv::Rect bbox (cx, cy, w, h);
@@ -118,6 +138,7 @@ void Yolo::Detect (cv::Mat img, std::vector <Result> &result)
         confidences.push_back (confi);
         classids.push_back (classid);
     }
+
     // NMS
     std::vector <int> indices;
     cv::dnn::NMSBoxes (bboxes, confidences, 0.25, 0.45, indices);

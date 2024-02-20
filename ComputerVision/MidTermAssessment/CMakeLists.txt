@@ -12,4 +12,4 @@ target_include_directories(main PUBLIC ${OpenCV_INCLUDE_DIRS})
 target_link_libraries(main ${OpenCV_LIBS})
 
 target_link_libraries(main mathfunc)
-target_link_libraries(main yolo)
+# target_link_libraries(main yolo)

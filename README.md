@@ -49,6 +49,10 @@
 
 通过 `pt` 转 `onnx` 来进行识别色块，按顺序在图像中标注并计算偏角。
 
+### 1.9 MidTermAssessment
+
+用于提交 **中期考核**
+
 ## 2. MicroController
 ### 2.1 SerialControl
 
@@ -61,3 +65,17 @@
 ### 2.3 SerialPWM
 
 接受信息，并控制舵机旋转
+
+### 2.4 RemoteController_nRF20L01
+
+控制手柄的pcb代码
+
+## 3. MechanicalStructure
+
+### 3.1 零件
+
+小车结构的零件
+
+### 3.2 装配体
+
+小车结构的装配体

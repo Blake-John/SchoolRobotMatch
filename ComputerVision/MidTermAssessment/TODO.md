@@ -10,25 +10,25 @@ the old one has a fatal error in math, since I had mixed the math concept of the
 
 the project should show all the tasks
 
-- [] Project : MidTermAssessment
+- [x] Project : MidTermAssessment
 
 ## 03 write the module to get the Euler Angle
 
 this should calculate the euler angle from the center to the target
 
-- [x] roll yaw
+- [x] yaw pitch
 
 ## 04 write the Illustration Document
 
 for the assessment
 
-- [] docs
+- [x] docs
 
 ## 05 record the video
 
 for the assessment
 
-- [] video
+- [x] video
 
 > optional : 
 > Use the traditional cv method such as get the HSV Range before to detect the color pieces
