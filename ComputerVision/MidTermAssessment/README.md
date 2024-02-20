@@ -2,8 +2,8 @@
 
 此次完成的是视觉组的中期考核
 
-* 题目一、三、四的展示视频见 [Video1](videos/1.mkv)
-* 题目二没有专门录制，但是可以见 [Video2](videos/2.mp4)
+* 题目一、三、四的展示视频见 [Video1](medias/1.mkv)
+* 题目二没有专门录制，但是可以见 [Video2](medias/2.mp4) 以及 [Demonstration](medias/0.jpg)
 
 所有代码都上传至 [仓库](https://gitee.com/blake-john/robot-match/tree/master/ComputerVision/MidTermAssessment) 中，可以通过以下命令查看
 
@@ -43,4 +43,4 @@ git clone https://gitee.com/blake-john/robot-match.git
 
 至于为什么不用传统的 **边缘检测以及HSV色域**，是因为我我手搓的那块板太烂了，而且在家里拍出来的照片背景一堆，再加上不知到时候比赛现场的环境怎么样，于是就选了用神经网络来识别。
 
-> 代码的讲解可见代码本身的注释，或者仓库中的 [CHANGELOG.md](https://gitee.com/blake-john/robot-match/blob/master/CHANGELOG.md)
+> 代码的讲解可见 **代码本身的注释**，或者仓库中的 [CHANGELOG.md](https://gitee.com/blake-john/robot-match/blob/master/CHANGELOG.md)
