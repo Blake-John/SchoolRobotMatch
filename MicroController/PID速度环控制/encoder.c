@@ -4,6 +4,7 @@
 
 #include "encoder.h"
 #include "oled.h"
+#include "usart.h"
 Motor Motor1;
 static uint8_t countone = 0;
 static float goalspeed = 3;
@@ -26,6 +27,16 @@ void Motor_Init(void)
     Motor1.Direct = 0;
 }
 
+unsigned char tail[4] = {0x00, 0x00, 0x80, 0x7f};
+//  将速度上传到上位机VOFA＋
+void Send_TO_VOFA(float send)
+{
+
+        HAL_UART_Transmit(&huart1, (uint8_t *)&send, sizeof(float), 0xffff);
+        while(HAL_UART_GetState(&huart1)==RESET);
+
+}
+
 //复写定时器回调函数，用于计算速度
 void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
 {
@@ -40,8 +51,16 @@ void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
     {
 //        Motor1.Direct = __HAL_TIM_IS_TIM_COUNTING_DOWN(&ENCODER_TIM); //通过编码器定时器的计数方向得到电机转动方向，正转返回0，反转返回1
         Motor1.TotalCount = COUNTER_NUM + Motor1.OverFlowCount * AUTO_RELOAD_VALUE; //总计数次数
-        Motor1.Speed = (float)(Motor1.TotalCount - Motor1.LastCount) / (4 * MOTOR_SPEED_DOWN_RATIO * PULSE_PER_ROUND) * 10; //计算电机运行速度
+        Motor1.Speed = (float)(Motor1.TotalCount - Motor1.LastCount) / (4 * MOTOR_SPEED_DOWN_RATIO * PULSE_PER_ROUND) * 500; //计算电机运行速度
         Motor1.LastCount = Motor1.TotalCount; //将本次计数赋给LastCount供下次使用
+        for(uint8_t i = 0; i < 4; i++)
+        {
+            HAL_UART_Transmit(&huart1,(uint8_t *)&tail[i],1,0xffff);
+            while(HAL_UART_GetState(&huart1) == RESET);
+        }
+        Send_TO_VOFA(Motor1.Speed);
+//        OLED_ShowNum(1,1,(uint32_t)(Motor1.Speed *(-1)),3);
+
 // 计数器调试代码
 //        if (Light == 0)
 //        {
@@ -53,34 +72,43 @@ void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
 //            Light = 0;
 //        }
 
-// 以下屏蔽OLED的慢速魅力时刻
-//        if(Motor1.Speed > 0)
-//        {
+
+        if(Motor1.Speed > 0)
+        {
 //            OLED_ShowChar(1,10,'F');
-//        }else if(Motor1.Speed < 0)
-//        {
-//            Motor1.Speed = -Motor1.Speed;
+        }else if(Motor1.Speed < 0)
+        {
+            Motor1.Speed = -Motor1.Speed;
 //            OLED_ShowChar(1,10,'B');
-//        }else
-//        {
+        }else
+        {
 //            OLED_ShowChar(1,10,'S');
-//        }
+        }
 //        OLED_ShowNum(1,1,(uint32_t)(Motor1.Speed * 1),8);
 //        OLED_ShowNum(2,1,++countone,8);
 //        OLED_ShowNum(3,1,COUNTER_NUM,8);
+
+
         if(Compare > 0 && Compare < 9999)
         {
             if(Motor1.Speed < goalspeed)
             {
-                Compare+=100;
+                Compare+=10;
                 __HAL_TIM_SET_COMPARE(&DRIVE_TIM,TIM_CHANNEL_1,Compare);
             }
             if(Motor1.Speed > goalspeed)
             {
-                Compare-=100;
+                Compare-=10;
                 __HAL_TIM_SET_COMPARE(&DRIVE_TIM,TIM_CHANNEL_1,Compare);
             }
+        }else if(Compare <= 0)
+        {
+            Compare += 100;
+        }else if(Compare >= 9999)
+        {
+            Compare -= 100;
         }
-//        OLED_ShowNum(4,1,Compare,8);
     }
 }
+
+// WIP————速度锁优化
