@@ -1,7 +1,7 @@
 #include "yolov3.h"
 
 Yolo::Yolo (std::string modelpath) {
-    this->net = cv::dnn::readNet (modelpath);
+    this->net = cv::dnn::readNetFromONNX (modelpath);
 }
 
 cv::Mat Yolo::forward ()
@@ -112,7 +112,7 @@ void Yolo::Detect (cv::Mat img, std::vector <Result> &result)
 
         auto class_score = output.ptr<int>(i);
         int classid = std::max_element (class_score + 5, class_score + 13) - (class_score + 5);
-        
+				
         cv::Rect bbox (cx, cy, w, h);
         bboxes.push_back (bbox);
         confidences.push_back (confi);
