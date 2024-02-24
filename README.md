@@ -14,6 +14,7 @@
 
 > 详细信息请阅读 [CHANGELOG](CHANGELOG.md)
 
+
 ## 1. ComputerVision
 ### 1.1 AutoAimming
 
@@ -49,6 +50,11 @@
 
 通过 `pt` 转 `onnx` 来进行识别色块，按顺序在图像中标注并计算偏角。
 
+### 1.9 MidTermAssessment
+
+用于提交 **中期考核** ，代码效果展示见 [Video](./ComputerVision/MidTermAssessment/medias/1.mkv)
+
+
 ## 2. MicroController
 ### 2.1 SerialControl
 
@@ -61,3 +67,25 @@
 ### 2.3 SerialPWM
 
 接受信息，并控制舵机旋转
+
+### 2.4 RemoteController_nRF20L01
+
+控制手柄的pcb项目
+
+
+## 3. MechanicalStructure
+### 3.1 零件
+
+小车结构的零件，包括小车的 **基本框架**，**麦轮结构**，**扫球装置**，**tt130电机**
+
+### 3.2 装配体
+
+小车结构的装配体，包括 **局部装配体** 以及 **整车装配体**
+
+![Total](MechanicalStructure/imgs/整车装配.png)
+
+### 3.3 Mearm机械臂
+
+机械臂的结构，包括各 **部位零件** 及 **装配体**
+
+![Arm](MechanicalStructure/imgs/机械臂装配.png)
