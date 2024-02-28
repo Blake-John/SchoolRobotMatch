@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/blake/Desktop/robot-match/ComputerVision/V3/out/Debug",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/robot-match/ComputerVision/V3/ReadColorRange/. -isystem /usr/local/include/opencv4 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/blake/Desktop/robot-match/ComputerVision/V3/main.cpp",
+  "file": "/home/blake/Desktop/robot-match/ComputerVision/V3/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/blake/Desktop/robot-match/ComputerVision/V3/out/Debug/ReadColorRange",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/robot-match/ComputerVision/V3/ReadColorRange/. -isystem /usr/local/include/opencv4 -g -o CMakeFiles/readcolor.dir/readcolor.cpp.o -c /home/blake/Desktop/robot-match/ComputerVision/V3/ReadColorRange/readcolor.cpp",
+  "file": "/home/blake/Desktop/robot-match/ComputerVision/V3/ReadColorRange/readcolor.cpp",
+  "output": "ReadColorRange/CMakeFiles/readcolor.dir/readcolor.cpp.o"
+}
+]

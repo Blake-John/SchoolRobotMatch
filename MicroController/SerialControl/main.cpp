@@ -1,10 +1,10 @@
-#include <stdio.h>
+// #include <stdio.h>
 #include <fcntl.h>
 #include <termios.h>
 #include <unistd.h>
-#include <errno.h>
+// #include <errno.h>
 #include <iostream>
-#include <cstring>
+// #include <cstring>
 
 #define log(x) std::cout << x << std::endl;
 
@@ -68,9 +68,9 @@ int main ()
     // char buffer[10];
     struct data
     {
-        uint8_t head;
-        uint8_t data[100];
-        uint8_t end;
+        char head;
+        char data[100];
+        char end;
     };
     
     // uint8_t* bufferpt = &buffer;

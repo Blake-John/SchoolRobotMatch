@@ -1,0 +1,6 @@
+/home/blake/Desktop/robot-match/ComputerVision/V3/out/Debug/CMakeFiles/main.dir
+/home/blake/Desktop/robot-match/ComputerVision/V3/out/Debug/CMakeFiles/edit_cache.dir
+/home/blake/Desktop/robot-match/ComputerVision/V3/out/Debug/CMakeFiles/rebuild_cache.dir
+/home/blake/Desktop/robot-match/ComputerVision/V3/out/Debug/ReadColorRange/CMakeFiles/readcolor.dir
+/home/blake/Desktop/robot-match/ComputerVision/V3/out/Debug/ReadColorRange/CMakeFiles/edit_cache.dir
+/home/blake/Desktop/robot-match/ComputerVision/V3/out/Debug/ReadColorRange/CMakeFiles/rebuild_cache.dir

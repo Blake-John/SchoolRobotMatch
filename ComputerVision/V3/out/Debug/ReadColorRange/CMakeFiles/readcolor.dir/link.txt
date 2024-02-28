@@ -1,0 +1,2 @@
+/usr/bin/ar qc libreadcolor.a CMakeFiles/readcolor.dir/readcolor.cpp.o
+/usr/bin/ranlib libreadcolor.a

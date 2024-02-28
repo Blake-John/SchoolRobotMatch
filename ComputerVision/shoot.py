@@ -4,8 +4,8 @@ import os
 if not os.path.exists ("imgs") :
     os.mkdir ("imgs")
 
-cap = cv2.VideoCapture (1);
-i = 90
+cap = cv2.VideoCapture (2);
+i = 177
 cap.set (cv2.CAP_PROP_FRAME_HEIGHT, 720)
 cap.set (cv2.CAP_PROP_FRAME_WIDTH, 1280)
 while True :
