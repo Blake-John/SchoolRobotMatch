@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/build",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/mathfunc/. -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/process/. -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/serial/. -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/aim/. -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/func/. -isystem /usr/local/include/opencv4  -o CMakeFiles/main.dir/main.cpp.o -c /home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/main.cpp",
+  "file": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/build/func",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/func/. -isystem /usr/local/include/opencv4  -o CMakeFiles/func.dir/func.cpp.o -c /home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/func/func.cpp",
+  "file": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/func/func.cpp",
+  "output": "func/CMakeFiles/func.dir/func.cpp.o"
+},
+{
+  "directory": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/build/process",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/process/. -isystem /usr/local/include/opencv4  -o CMakeFiles/process.dir/process.cpp.o -c /home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/process/process.cpp",
+  "file": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/process/process.cpp",
+  "output": "process/CMakeFiles/process.dir/process.cpp.o"
+},
+{
+  "directory": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/build/serial",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/serial/.  -o CMakeFiles/serial.dir/serial.cpp.o -c /home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/serial/serial.cpp",
+  "file": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/serial/serial.cpp",
+  "output": "serial/CMakeFiles/serial.dir/serial.cpp.o"
+},
+{
+  "directory": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/build/aim",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/aim/. -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/func/. -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/serial/. -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/process/. -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/mathfunc/. -isystem /usr/local/include/opencv4  -o CMakeFiles/aim.dir/aim.cpp.o -c /home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/aim/aim.cpp",
+  "file": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/aim/aim.cpp",
+  "output": "aim/CMakeFiles/aim.dir/aim.cpp.o"
+},
+{
+  "directory": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/build/mathfunc",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/mathfunc/. -isystem /usr/local/include/opencv4  -o CMakeFiles/mathfunc.dir/mathfunc.cpp.o -c /home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/mathfunc/mathfunc.cpp",
+  "file": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution3/mathfunc/mathfunc.cpp",
+  "output": "mathfunc/CMakeFiles/mathfunc.dir/mathfunc.cpp.o"
+}
+]

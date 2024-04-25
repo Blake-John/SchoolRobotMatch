@@ -1,0 +1,18 @@
+bilateral_color, 32
+bilateral_space, 23
+d, 0
+
+shift_space, 25
+shift_color, 12
+
+add
+bila, 0.5
+shift, 0.5
+addon, 10
+
+// bilateral_color, 36
+// bilateral_space, 29
+// d, 0
+// 
+// shift_space, 31
+// shift_color, 12

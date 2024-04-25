@@ -1,3 +1,0 @@
-D:/robot-match/ComputerVision/Calibration/shoot/build/CMakeFiles/shoot.dir
-D:/robot-match/ComputerVision/Calibration/shoot/build/CMakeFiles/edit_cache.dir
-D:/robot-match/ComputerVision/Calibration/shoot/build/CMakeFiles/rebuild_cache.dir

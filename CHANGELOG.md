@@ -1,3 +1,24 @@
+## 2024-04-25
+### 1. FEATURE 新增
+
+1. 电控的项目源代码
+2. 视觉的项目源代码
+
+### 2. CHANGE 变更
+
+更新了根目录下 `README.md` 文件的结构
+
+### 3. FIXED 修复
+
+None
+
+### 4. ILLUSTRATION 说明
+
+1. 电控的项目通过 `CLion` 开发
+2. 视觉的项目通过 `Linux` 开发
+
+---
+
 ## 2024-02-20
 ### 1. FEATURE 新增
 #### MidTermAssessment

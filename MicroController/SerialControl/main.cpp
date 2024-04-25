@@ -38,19 +38,23 @@ int main ()
 
     // 设置停止位 = 1
     SerialPortSettings.c_cflag &= ~CSTOPB;
-    SerialPortSettings.c_cflag &= ~CSIZE;
 
     // 设置数据位 = 8
+		SerialPortSettings.c_cflag &= ~CSIZE;
     SerialPortSettings.c_cflag |= CS8;
 
-    SerialPortSettings.c_cflag &= ~CRTSCTS;
+		// 启动字符接收，忽略调制解调器信号
     SerialPortSettings.c_cflag |= CREAD | CLOCAL;
 
     // 设置流控
+		SerialPortSettings.c_cflag &= ~CRTSCTS; // 关闭硬件流控
+		// 关闭软件流控
     SerialPortSettings.c_iflag &= ~(IXON | IXOFF | IXANY);
 
     // 设置操作模式
-    SerialPortSettings.c_iflag &= ~(ICANON | ECHO | ECHOE | ISIG);
+    SerialPortSettings.c_iflag &= ~(ICANON | ECHO | ECHOE | ISIG); // 关闭输入处理，关闭本地回显，关闭信号
+
+		// 关闭输出处理
     SerialPortSettings.c_oflag &= ~OPOST;
 
     if (tcsetattr (fd, TCSANOW, &SerialPortSettings) != 0)

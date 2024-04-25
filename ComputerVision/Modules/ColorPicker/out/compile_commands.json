@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/blake/Desktop/robot-match/ComputerVision/ColorPicker/out",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/blake/Desktop/robot-match/ComputerVision/ColorPicker/main.cpp",
+  "file": "/home/blake/Desktop/robot-match/ComputerVision/ColorPicker/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]

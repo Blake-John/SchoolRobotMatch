@@ -1,6 +1,8 @@
 # ignore the build file
 
 build/
+.cache/
+.vscode/
 
 # *.mp4
 # *.mkv

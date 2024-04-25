@@ -1,2 +1,0 @@
-E:/w64devkit/bin/ar.exe qc libfuncs.a CMakeFiles/funcs.dir/src/funcs.cpp.obj
-E:/w64devkit/bin/ranlib.exe libfuncs.a

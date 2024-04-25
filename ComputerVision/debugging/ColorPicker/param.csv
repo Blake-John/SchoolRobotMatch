@@ -1,0 +1,81 @@
+purple,
+179, 56, 117		179, 56, 104
+13, 25, 45			0, 15, 50
+
+179, 99, 123
+140, 0, 31
+shift + bila -> add -> erode -> findcontours
+
+
+blue_l
+103, 55, 227		109, 59, 173
+65, 3, 13966		66, 0, 141
+
+109, 83, 213
+57, 9, 148
+shift + bila -> add -> erode -> findcontours
+
+
+orange
+18, 212, 255		18, 219, 189
+0, 162, 129			0, 165, 151
+shift + bila -> add -> erode -> findcontours
+
+pink
+179, 194, 209		179, 191, 193
+133, 73, 154		133, 77, 153
+
+
+179, 128, 225
+144, 51, 144
+shift + bila -> add -> erode -> findcontours
+
+green
+87, 193, 156		82, 172, 134
+53, 66, 90			41, 80, 96
+
+79, 178, 194
+43, 92, 115
+shift + bila -> add -> erode -> findcontours
+
+red
+179, 191, 166		179, 209, 185
+76, 60, 108			148, 125, 86
+
+179, 255, 199
+151, 121, 100
+shift + bila -> add -> erode -> findcontours
+
+yellow_d
+29, 188, 269		26, 191, 181
+14, 142, 151		17, 140, 154
+
+22, 202, 188
+15, 140, 139
+shift + bila -> add -> erode -> findcontours
+
+blue_d
+127, 218, 119		129, 211, 131
+91, 51, 20			94, 58, 51
+
+122, 227, 136
+91, 95, 71
+shift + bila -> add -> erode -> findcontours
+
+yellow_l
+27, 179, 184		39, 176, 198
+26, 121, 149		27, 138, 146
+
+39, 148, 211
+25, 106, 174
+shift + bila -> add -> erode -> findcontours
+
+black
+29, 89, 80
+19, 50, 54
+
+
+45, 170, 90
+9, 16, 5
+shift + bila -> add -> erode -> findcontours
+

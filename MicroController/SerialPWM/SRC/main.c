@@ -16,7 +16,7 @@
 #include "OLED.h"
 #include "Serial.h"
 
-uint16_t duty1 = 500, duty2 = 1300;
+uint16_t duty1 = 1000, duty2 = 1450;
 uint32_t px = 0, py = 0;
 uint32_t dx = 0, dy = 0;
 int key = 0;
@@ -49,13 +49,23 @@ int main()
     OLED_ShowChar (3, 1, 'Y');
     // showx ();
     // showy ();
-    TIM_SetCompare2 (TIM2, 500);
-    TIM_SetCompare3 (TIM2, 1300);
+    TIM_SetCompare2 (TIM2, 1000);
+    TIM_SetCompare3 (TIM2, 1450);
 
     float dx, dy;
+    uint8_t count = 0;
 
     while (1)
     {
+        if (flag == 2)
+        {
+            TIM_SetCompare2 (TIM2, 1000);
+            TIM_SetCompare3 (TIM2, 1450);
+            flag = 0;
+            OLED_ShowString (2, 1, "                ");
+            OLED_ShowString (4, 1, "                ");
+        }
+        
         if (flag == 1)
         {
             OLED_ShowString (2, 1, "                ");
@@ -81,28 +91,40 @@ int main()
             int32_t duty_dx, duty_dy;
             duty_dx = (int)(dx / 0.09f);
             duty_dy = (int)(dy / 0.09f);
-            duty1 += (int)duty_dx;
-            duty2 += (int)duty_dy;
+            duty1 += -(int)duty_dx;
+            duty2 += -(int)duty_dy;
             
-            if (duty1 >= 2500)
-            {
-                duty1 = 2500;
-            }
+            // if (duty1 >= 2500)
+            // {
+            //     duty1 = 2500;
+            // }
             if (duty1 <= 0)
             {
                 duty1 = 0;
             }
-            if (duty2 >= 2500)
-            {
-                duty2 = 2500;
-            }
-            if (duty2 <= 1300)
-            {
-                duty2 = 1300;
-            }
+            // if (duty2 >= 2500)
+            // {
+            //     duty2 = 2500;
+            // }
+            // if (duty2 <= 1450)
+            // {
+            //     duty2 = 1450;
+            // }
             
             TIM_SetCompare2 (TIM2, duty1);
+            OLED_ShowNum (1, 3, count++, 2);
+            // for (; Rx_Data[i] != 'Y' && Rx_Data[i] != 'y'; i++)
+            // {
+            //     // bufx[i - 1] = Rx_Data[i];
+            //     OLED_ShowChar (2, i, Rx_Data[i]);
+            // }
             TIM_SetCompare3 (TIM2, duty2);
+            OLED_ShowNum (3, 3, count++, 2);
+            // for (; Rx_Data[j] != '\0' && Rx_Data[j] != ' ';j++)
+            // {
+            //     // bufy[j - i - 1] = Rx_Data[j];
+            //     OLED_ShowChar (4, j - i, Rx_Data[j]);
+            // }
 
             flag = 0;
         }

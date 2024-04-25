@@ -12,50 +12,53 @@
 * `Microcontroller` 用于存放电控的相关代码，电路板设计等资料
 * `MechanicalStructure` 用于存放小车的结构，模型等
 
-> 详细信息请阅读 [CHANGELOG](CHANGELOG.md)
+> 详细更新信息请阅读 [CHANGELOG](CHANGELOG.md)
 
 
-## 1. ComputerVision
-### 1.1 AutoAimming
+## 1. ComputerVisioin
 
-用于比赛时视觉方面 **获取目标** 以及 **瞄准顺序**
+### 1.0 Structure
 
-### 1.2 GetDistance
+```
+.
+├── Modules                        # 一些模块
+├── MidTermAssessment              # 中期考核程序
+├── debugging                      # 存放用于赛前赛时调试用的程序
+└── VisionSolutions                # 比赛瞄准项目
+```
 
-用于中期考核以及瞄准用的 **距离测量**
+### 1.1 Modules
 
-### 1.3 GetAngle
+存放这一些准备比赛时使用的模块，较为杂
 
-用于瞄准的 **偏角** 计算模块
-
-### 1.4 Calibration
-
-用于测量相机的 **相距**
-
-> `param.csv` 用于存放相机的各种参数
-
-### 1.5 `Aim` 
-
-用于更加准确地获得 **目标色块**
-
-### 1.6 `ColorPicker`
-
-用于获取 HSV 颜色阈值
-
-### 1.7 `V1`
-
-未完成品
-
-### 1.8 `V2`
-
-通过 `pt` 转 `onnx` 来进行识别色块，按顺序在图像中标注并计算偏角。
-
-### 1.9 MidTermAssessment
+### 1.2 MidTermAssessment
 
 用于提交 **中期考核** ，代码效果展示见 [Video](./ComputerVision/MidTermAssessment/medias/1.mkv)
 
+详情可见 [MidTermAssessment](./ComputerVision/MidTermAssessment/README.md) 以及 [What to do](./ComputerVision/MidTermAssessment/TODO.md)
+
+### 1.3 debugging
+
+关于该目录可见 [debugging](./ComputerVision/debugging/README.md) 以及 [what to do](./ComputerVision/debugging/TODO.md)
+
+### 1.4 VisionSolutions
+
+视觉方面的项目目录，存放了用于比赛瞄准的程序，可见 [VisionSolutions](./ComputerVision/VisionSolutions/README.md) 以及 [What to do](./ComputerVision/VisionSolutions/TODO.md)
 
 ## 2. MicroController
+
+### 2.0 Structure
+
+```
+.
+├── MajorControl_Source            # 比赛小车控制项目
+├── PID速度环控制
+├── RemoteController_nRF20L01      # 控制手柄
+├── SerialControl                  # 串口通信代码
+├── SerialMCU
+└── SerialPWM
+```
+
 ### 2.1 SerialControl
 
 串口通信模块，实现在 Linux 系统下，通过 C++ 程序与 STM32 通信
@@ -72,11 +75,18 @@
 
 控制手柄的pcb项目
 
+### 2.5 MajorControl_Source
+
+电控的 PCB 板源文件， `ZET6` 主控板源代码， `C8T6`从控板源代码以及遥控手柄控制源码。
+
+实现了通过手柄上的 2.4G 模块向 `ZET6` 主控板发送信息，从而驱动小车，并实现比赛所需要的捡球，上高台，兑换等功能
+
+详细信息可见 [MajorControl_Source-README](./MicroController/MajorControl_Source/README.md)
 
 ## 3. MechanicalStructure
 ### 3.1 零件
 
-小车结构的零件，包括小车的 **基本框架**，**麦轮结构**，**扫球装置**，**tt130电机**
+小车结构的零件，包括小车的 **基本框架** ，**麦轮结构**，**扫球装置**，**tt130电机**
 
 ### 3.2 装配体
 

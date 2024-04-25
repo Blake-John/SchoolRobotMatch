@@ -1,2 +1,0 @@
-E:/w64devkit/bin/ar.exe qc libprocess.a CMakeFiles/process.dir/src/process.cpp.obj
-E:/w64devkit/bin/ranlib.exe libprocess.a

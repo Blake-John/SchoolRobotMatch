@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/build",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/mathfunc/. -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/yolo/. -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/serial/. -isystem /usr/local/include/opencv4  -o CMakeFiles/main.dir/main.cpp.o -c /home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/main.cpp",
+  "file": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/build/yolo",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/yolo/. -isystem /usr/local/include/opencv4  -o CMakeFiles/yolo.dir/yolo.cpp.o -c /home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/yolo/yolo.cpp",
+  "file": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/yolo/yolo.cpp",
+  "output": "yolo/CMakeFiles/yolo.dir/yolo.cpp.o"
+},
+{
+  "directory": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/build/mathfunc",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/mathfunc/. -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/yolo/. -isystem /usr/local/include/opencv4  -o CMakeFiles/mathfunc.dir/mathfunc.cpp.o -c /home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/mathfunc/mathfunc.cpp",
+  "file": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/mathfunc/mathfunc.cpp",
+  "output": "mathfunc/CMakeFiles/mathfunc.dir/mathfunc.cpp.o"
+},
+{
+  "directory": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/build/serial",
+  "command": "/usr/bin/c++  -I/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/serial/.  -o CMakeFiles/serial.dir/serial.cpp.o -c /home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/serial/serial.cpp",
+  "file": "/home/blake/Desktop/SchoolRoboMath/robot-match/ComputerVision/VisionSolutions/Solution1/serial/serial.cpp",
+  "output": "serial/CMakeFiles/serial.dir/serial.cpp.o"
+}
+]

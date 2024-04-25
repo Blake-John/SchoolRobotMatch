@@ -56,17 +56,27 @@ void USART1_IRQHandler (void)
         }
         else if (state == 1)
         {
-            if (buffer != '\n')
+            if (buffer != '\n' && buffer != '\r')
             {
                 Rx_Data[p] = buffer;
                 p++;
             }
             else
             {
-                Rx_Data[p] = '\0';
-                state = 0;
-                p = 0;
-                flag = 1;
+                if (buffer == '\n')
+                {
+                    Rx_Data[p] = '\0';
+                    state = 0;
+                    p = 0;
+                    flag = 1;
+                }
+                else if (buffer == '\r')
+                {
+                    Rx_Data[p] = '\0';
+                    state = 0;
+                    p = 0;
+                    flag = 2;
+                }
             }
         }
         USART_ClearITPendingBit (USART1, USART_IT_RXNE);
