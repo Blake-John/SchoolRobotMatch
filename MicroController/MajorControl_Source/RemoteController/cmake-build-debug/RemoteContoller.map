@@ -1,0 +1,2355 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+                              CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj (__errno)
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+                              d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                              d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                              d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+                              CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj (memcpy)
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                              d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+                              CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj (strlen)
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                              d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                              d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                              d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                              d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .text.HAL_ADC_MspDeInit
+                0x00000000       0x34 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .text.HAL_I2C_MspDeInit
+                0x00000000       0x38 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .data.delay_1s
+                0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Control_Into
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Control_Exit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Menu_Roller_Start_Stop
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Menu_Roller_Up
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Menu_Roller_Down_Regi
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Menu_Trans_Start_Stop
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Menu_Trans_Fold
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Menu_Trans_Defold
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Menu_Shovel_Auto_Once
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Menu_Shovel_MenualMode
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Menu_Camera_Laser
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text.Menu_Camera_DetectMode
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .rodata.INIT_ADDR1
+                0x00000000        0x5 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .rodata.INIT_ADDR2
+                0x00000000        0x5 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .rodata.INIT_ADDR3
+                0x00000000        0x5 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .rodata.INIT_ADDR4
+                0x00000000        0x5 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .rodata.INIT_ADDR5
+                0x00000000        0x5 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .text.OLED_Pow
+                0x00000000       0x14 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .text.OLED_ShowNum
+                0x00000000       0x50 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .text.HAL_SPI_MspDeInit
+                0x00000000       0x2c CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000      0x7af CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x1a3 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x00000000      0x3c5 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x00000000       0x98 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x41b CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x422 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x190 CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .text._sbrk    0x00000000       0x48 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .bss.__sbrk_heap_end
+                0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x00000000      0x174 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x00000000       0xe7 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .debug_loc     0x00000000       0x64 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .debug_ranges  0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x00000000      0x1d8 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x00000000      0x24e CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .debug_frame   0x00000000       0x28 CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0x94 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .text.HAL_TIM_Base_MspDeInit
+                0x00000000       0x28 CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .text          0x00000000       0x14 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000        0xe CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000        0xe CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_MspInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_MspDeInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_PollForEvent
+                0x00000000       0x60 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_GetValue
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_LevelOutOfWindowCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_IRQHandler
+                0x00000000      0x102 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_AnalogWDGConfig
+                0x00000000       0x60 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_GetError
+                0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_Start_IT
+                0x00000000       0xf0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_DeInit
+                0x00000000       0xfc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_Stop
+                0x00000000       0x34 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_Stop_IT
+                0x00000000       0x3e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text.HAL_ADC_Stop_DMA
+                0x00000000       0x5e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedStart
+                0x00000000       0xb8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedStop
+                0x00000000       0x54 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedPollForConversion
+                0x00000000      0x17c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedStart_IT
+                0x00000000       0xc0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedStop_IT
+                0x00000000       0x5e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_MultiModeStart_DMA
+                0x00000000      0x100 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_MultiModeStop_DMA
+                0x00000000       0x84 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedGetValue
+                0x00000000       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_MultiModeGetValue
+                0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedConvCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_InjectedConfigChannel
+                0x00000000      0x228 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_MultiModeConfigChannel
+                0x00000000       0x70 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x60 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0x68 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x52 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x00000000       0x46 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0x98 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x22c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x4c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x5c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xd8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xac CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0x88 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000        0xe CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x1c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x14 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x14 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x5b4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x1e0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_loc     0x00000000      0x470 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x630 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x40c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_frame   0x00000000       0xe8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x1c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x00000000       0x70 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x6c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000      0x154 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x34 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x14 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x28 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x14 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000        0x8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x68 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0xa0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x698 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x22d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_loc     0x00000000      0x3a2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x78 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x7c3 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x565 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x134 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x18 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0x68 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x48 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_ProgramData
+                0x00000000       0x40 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBErase
+                0x00000000       0x50 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x00000000       0xc0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x00000000       0xc8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0x9c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x1c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetUserData
+                0x00000000       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x00000000       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0xa4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x60 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0xafa CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x234 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_loc     0x00000000      0x87f CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0x88 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0x955 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x67b CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x194 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x100 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x12 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_ConfigEventout
+                0x00000000       0x14 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_EnableEventout
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_DisableEventout
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_info    0x00000000      0x15c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_abbrev  0x00000000       0xda CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_loc     0x00000000       0x25 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_ranges  0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_line    0x00000000      0x1d9 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_str     0x00000000      0x28d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_frame   0x00000000       0x40 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Flush_DR
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Master_SB
+                0x00000000       0xa8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Master_ADD10
+                0x00000000       0x2a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Master_ADDR
+                0x00000000      0x216 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_SlaveTransmit_BTF
+                0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_SlaveReceive_BTF
+                0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnSTOPRequestThroughIT
+                0x00000000       0x48 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_ConvertOtherXferOptions
+                0x00000000       0x1e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterRequestWrite
+                0x00000000       0xb4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterRequestRead
+                0x00000000      0x120 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_RequestMemoryRead
+                0x00000000      0x154 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnRXNEFlagUntilTimeout
+                0x00000000       0x78 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnSTOPFlagUntilTimeout
+                0x00000000       0x5c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MspInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MspDeInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_DeInit
+                0x00000000       0x32 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit
+                0x00000000      0x178 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive
+                0x00000000      0x358 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit
+                0x00000000      0x1a4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive
+                0x00000000      0x180 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit_IT
+                0x00000000       0xd4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive_IT
+                0x00000000       0xdc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit_IT
+                0x00000000       0x8c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive_IT
+                0x00000000       0x8c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit_DMA
+                0x00000000      0x180 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive_DMA
+                0x00000000      0x180 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit_DMA
+                0x00000000      0x100 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive_DMA
+                0x00000000      0x100 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read
+                0x00000000      0x348 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Write_IT
+                0x00000000       0xe0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read_IT
+                0x00000000       0xec CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Write_DMA
+                0x00000000      0x1c8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read_DMA
+                0x00000000      0x208 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_IsDeviceReady
+                0x00000000      0x194 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Transmit_IT
+                0x00000000       0xfc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Transmit_DMA
+                0x00000000      0x1c4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Receive_IT
+                0x00000000      0x148 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Receive_DMA
+                0x00000000      0x238 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Transmit_IT
+                0x00000000       0x90 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Transmit_DMA
+                0x00000000      0x19c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Receive_IT
+                0x00000000       0x90 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Receive_DMA
+                0x00000000      0x19c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_EnableListen_IT
+                0x00000000       0x3e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_DisableListen_IT
+                0x00000000       0x42 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MasterTxCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MasterRxCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_SlaveTxCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_SlaveTransmit_TXE
+                0x00000000       0x4c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_SlaveRxCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_SlaveReceive_RXNE
+                0x00000000       0x4c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_AddrCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Slave_ADDR
+                0x00000000       0x5a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_ListenCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Slave_AF
+                0x00000000       0xa0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MemTxCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterTransmit_BTF
+                0x00000000       0x9e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MemoryTransmit_TXE_BTF
+                0x00000000       0xc4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterTransmit_TXE
+                0x00000000       0xd0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MemRxCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterReceive_BTF
+                0x00000000      0x128 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_ErrorCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_DMAError
+                0x00000000       0x3a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_DMAXferCplt
+                0x00000000      0x122 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterReceive_RXNE
+                0x00000000       0xf6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_AbortCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_DMAAbort
+                0x00000000       0xe4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_ITError
+                0x00000000      0x178 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Abort_IT
+                0x00000000       0x64 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Slave_STOPF
+                0x00000000      0x18c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_EV_IRQHandler
+                0x00000000      0x1a0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_ER_IRQHandler
+                0x00000000       0xce CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetState
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetMode
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetError
+                0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.PWR_OverloadWfe
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x18 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x84 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x18 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x18 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x48 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x6a7 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x1de CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_loc     0x00000000      0x142 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_ranges  0x00000000       0x98 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x4ba CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x4d1 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x140 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000       0xf4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x50 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xb4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x3c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x2c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_AbortRx_ISR
+                0x00000000       0x68 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_AbortTx_ISR
+                0x00000000       0x1c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_MspInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_MspDeInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_DeInit
+                0x00000000       0x2c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Transmit_IT
+                0x00000000       0xa8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TransmitReceive_IT
+                0x00000000       0xe8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Receive_IT
+                0x00000000       0xe4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Transmit_DMA
+                0x00000000       0xd8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TransmitReceive_DMA
+                0x00000000      0x148 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Receive_DMA
+                0x00000000       0xf4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Abort
+                0x00000000      0x13c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_DMAPause
+                0x00000000       0x26 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_DMAResume
+                0x00000000       0x26 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_DMAStop
+                0x00000000       0x46 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TxCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_RxCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TxRxCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMAHalfTransmitCplt
+                0x00000000        0xa CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_RxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMAHalfReceiveCplt
+                0x00000000        0xa CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TxRxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMAHalfTransmitReceiveCplt
+                0x00000000        0xa CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_ErrorCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_CloseTx_ISR
+                0x00000000       0x90 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_TxISR_8BIT
+                0x00000000       0x28 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_TxISR_16BIT
+                0x00000000       0x28 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_CloseRx_ISR
+                0x00000000       0x56 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_RxISR_8BIT
+                0x00000000       0x28 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_RxISR_16BIT
+                0x00000000       0x28 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_CloseRxTx_ISR
+                0x00000000       0xb0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_2linesTxISR_8BIT
+                0x00000000       0x38 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_2linesRxISR_8BIT
+                0x00000000       0x38 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_2linesTxISR_16BIT
+                0x00000000       0x38 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_2linesRxISR_16BIT
+                0x00000000       0x38 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMAError
+                0x00000000       0x22 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMATransmitCplt
+                0x00000000       0x70 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMAReceiveCplt
+                0x00000000       0x6e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMATransmitReceiveCplt
+                0x00000000       0x5c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_IRQHandler
+                0x00000000      0x108 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMAAbortOnError
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_AbortCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Abort_IT
+                0x00000000      0x154 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMARxAbortCallback
+                0x00000000       0x70 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMATxAbortCallback
+                0x00000000       0x88 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_GetState
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_GetError
+                0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_OC1_SetConfig
+                0x00000000       0x5c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_OC3_SetConfig
+                0x00000000       0x64 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_OC4_SetConfig
+                0x00000000       0x48 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI2_SetConfig
+                0x00000000       0x36 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI3_SetConfig
+                0x00000000       0x36 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI4_SetConfig
+                0x00000000       0x36 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_MspInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_MspDeInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_DeInit
+                0x00000000       0x5e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Start
+                0x00000000       0x5c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Stop_IT
+                0x00000000       0x32 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Start_DMA
+                0x00000000       0xb0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Stop_DMA
+                0x00000000       0x3c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_MspInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_MspDeInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_DeInit
+                0x00000000       0x5e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_MspInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_MspDeInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_DeInit
+                0x00000000       0x5e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_MspInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_MspDeInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_DeInit
+                0x00000000       0x5e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_MspInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_MspDeInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_DeInit
+                0x00000000       0x4e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_MspInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_MspDeInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_DeInit
+                0x00000000       0x4e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_MultiWriteStart
+                0x00000000      0x1a8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_WriteStart
+                0x00000000       0x16 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_WriteStop
+                0x00000000       0x84 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_MultiReadStart
+                0x00000000      0x1a8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_ReadStart
+                0x00000000       0x16 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_ReadStop
+                0x00000000       0x84 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_GenerateEvent
+                0x00000000       0x2a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_ConfigTI1Input
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_ReadCapturedValue
+                0x00000000       0x32 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PeriodElapsedCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMAPeriodElapsedCplt
+                0x00000000       0x16 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PeriodElapsedHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMAPeriodElapsedHalfCplt
+                0x00000000        0xa CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMACaptureCplt
+                0x00000000       0x80 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_CaptureHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMACaptureHalfCplt
+                0x00000000       0x3e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMADelayPulseCplt
+                0x00000000       0x70 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_PulseFinishedHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMADelayPulseHalfCplt
+                0x00000000       0x3e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMATriggerCplt
+                0x00000000       0x16 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_TriggerHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMATriggerHalfCplt
+                0x00000000        0xa CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_ErrorCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMAError
+                0x00000000       0x5c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_GetState
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_GetState
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_GetState
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_GetState
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_GetState
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_GetState
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_GetActiveChannel
+                0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_GetChannelState
+                0x00000000       0x2a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurstState
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Init
+                0x00000000       0x58 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Init
+                0x00000000       0x58 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Init
+                0x00000000       0x58 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Init
+                0x00000000       0x5c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Init
+                0x00000000       0xb8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_OC2_SetConfig
+                0x00000000       0x64 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_ConfigChannel
+                0x00000000       0x5e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_ConfigChannel
+                0x00000000       0xdc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI1_SetConfig
+                0x00000000       0x58 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_ConfigChannel
+                0x00000000       0xc4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_ConfigChannel
+                0x00000000       0xfa CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_ConfigOCrefClear
+                0x00000000       0xfa CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_SlaveTimer_SetConfig
+                0x00000000       0xb8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_SlaveConfigSynchro
+                0x00000000       0x52 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_SlaveConfigSynchro_IT
+                0x00000000       0x52 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_CCxChannelCmd
+                0x00000000       0x1e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start
+                0x00000000       0xdc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop
+                0x00000000       0x84 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start_IT
+                0x00000000      0x124 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop_IT
+                0x00000000       0xd4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start_DMA
+                0x00000000      0x24c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop_DMA
+                0x00000000       0xec CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Start
+                0x00000000       0xdc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop
+                0x00000000       0x84 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Start_IT
+                0x00000000      0x124 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop_IT
+                0x00000000       0xd4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Start_DMA
+                0x00000000      0x24c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop_DMA
+                0x00000000       0xec CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start
+                0x00000000      0x10c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop
+                0x00000000       0x80 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start_IT
+                0x00000000      0x154 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop_IT
+                0x00000000       0xd0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start_DMA
+                0x00000000      0x240 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop_DMA
+                0x00000000       0xe6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Start
+                0x00000000       0x78 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Stop
+                0x00000000       0x78 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Start_IT
+                0x00000000       0x90 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Stop_IT
+                0x00000000       0x8c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start
+                0x00000000       0xcc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop
+                0x00000000       0xc4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start_IT
+                0x00000000       0xf6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop_IT
+                0x00000000       0xee CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start_DMA
+                0x00000000      0x264 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop_DMA
+                0x00000000      0x106 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIM_CCxNChannelCmd
+                0x00000000       0x1e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIM_DMAErrorCCxN
+                0x00000000       0x44 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIM_DMADelayPulseNCplt
+                0x00000000       0x70 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_MspInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Init
+                0x00000000       0xd4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_MspDeInit
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_DeInit
+                0x00000000       0x4e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start
+                0x00000000       0x9c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop
+                0x00000000       0x42 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start_IT
+                0x00000000       0xa8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop_IT
+                0x00000000       0x4c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start_DMA
+                0x00000000       0xd0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop_DMA
+                0x00000000       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start
+                0x00000000       0xd4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop
+                0x00000000       0x76 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start_IT
+                0x00000000      0x10c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop_IT
+                0x00000000       0xc2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start_DMA
+                0x00000000      0x1fc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop_DMA
+                0x00000000       0xc0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start
+                0x00000000       0xd4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop
+                0x00000000       0x76 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start_IT
+                0x00000000      0x10c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop_IT
+                0x00000000       0xc2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start_DMA
+                0x00000000      0x1fc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop_DMA
+                0x00000000       0xc0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Start
+                0x00000000       0x7a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Stop
+                0x00000000       0x72 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Start_IT
+                0x00000000       0x8e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Stop_IT
+                0x00000000       0x86 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent
+                0x00000000       0x70 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent_IT
+                0x00000000       0x70 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent_DMA
+                0x00000000       0x90 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigBreakDeadTime
+                0x00000000       0x52 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_RemapConfig
+                0x00000000        0x4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIMEx_DMACommutationCplt
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_CommutHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIMEx_DMACommutationHalfCplt
+                0x00000000       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_GetState
+                0x00000000        0x6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_GetChannelNState
+                0x00000000       0x2a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xc4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .text          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .data          0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x00000000        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+FLASH            0x08000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+LOAD d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+LOAD d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/sysmem.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+LOAD CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+START GROUP
+LOAD d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a
+LOAD d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+END GROUP
+LOAD d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+LOAD d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x20005000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.text           0x0800010c     0x41f4
+                0x0800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x40 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0800014c       0xec d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+                0x0800014c                memcpy
+ *(.text*)
+ .text.MX_ADC1_Init
+                0x08000238       0xa0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+                0x08000238                MX_ADC1_Init
+ .text.HAL_ADC_MspInit
+                0x080002d8       0x9c CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+                0x080002d8                HAL_ADC_MspInit
+ .text.MX_DMA_Init
+                0x08000374       0x34 CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+                0x08000374                MX_DMA_Init
+ .text.MX_GPIO_Init
+                0x080003a8      0x12c CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+                0x080003a8                MX_GPIO_Init
+ .text.MX_I2C1_Init
+                0x080004d4       0x3c CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+                0x080004d4                MX_I2C1_Init
+ .text.HAL_I2C_MspInit
+                0x08000510       0x64 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+                0x08000510                HAL_I2C_MspInit
+ .text.HAL_GPIO_EXTI_Callback
+                0x08000574      0x4c8 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x08000574                HAL_GPIO_EXTI_Callback
+ .text.HAL_TIM_PeriodElapsedCallback
+                0x08000a3c       0x18 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x08000a3c                HAL_TIM_PeriodElapsedCallback
+ .text.ADC_To_Txbuf
+                0x08000a54        0xc CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x08000a54                ADC_To_Txbuf
+ .text.Error_Handler
+                0x08000a60        0x4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x08000a60                Error_Handler
+ .text.SystemClock_Config
+                0x08000a64       0x84 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x08000a64                SystemClock_Config
+ .text.main     0x08000ae8      0x17c CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x08000ae8                main
+ .text.Control_Down
+                0x08000c64       0x64 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+                0x08000c64                Control_Down
+ .text.Control_Up
+                0x08000cc8       0x64 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+                0x08000cc8                Control_Up
+ .text.Control_Init
+                0x08000d2c       0x1c CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+                0x08000d2c                Control_Init
+ .text.Menu_Sec_Init
+                0x08000d48       0x24 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+                0x08000d48                Menu_Sec_Init
+ .text.NRF_Init
+                0x08000d6c       0x30 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+                0x08000d6c                NRF_Init
+ .text.NRF_SPI_Send_Byte
+                0x08000d9c       0x2c CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+                0x08000d9c                NRF_SPI_Send_Byte
+ .text.NRF_Write_Reg
+                0x08000dc8       0x34 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+                0x08000dc8                NRF_Write_Reg
+ .text.NRF_Read_Reg
+                0x08000dfc       0x30 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+                0x08000dfc                NRF_Read_Reg
+ .text.NRF_Write_Buf
+                0x08000e2c       0x40 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+                0x08000e2c                NRF_Write_Buf
+ .text.NRF_Read_Buf
+                0x08000e6c       0x40 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+                0x08000e6c                NRF_Read_Buf
+ .text.NRF_Check
+                0x08000eac       0x54 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+                0x08000eac                NRF_Check
+ .text.NRF_TX_Mode
+                0x08000f00       0x70 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+                0x08000f00                NRF_TX_Mode
+ .text.NRF_TX_Packet
+                0x08000f70       0x80 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+                0x08000f70                NRF_TX_Packet
+ .text.Cpy_Check
+                0x08000ff0       0x9c CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x08000ff0                Cpy_Check
+ .text.Oled_Init
+                0x0800108c       0x34 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x0800108c                Oled_Init
+ .text.WriteCmd
+                0x080010c0       0x2c CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x080010c0                WriteCmd
+ .text.WriteByte
+                0x080010ec       0x2c CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x080010ec                WriteByte
+ .text.OLED_SaveData
+                0x08001118      0x164 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x08001118                OLED_SaveData
+ .text.OLED_SetCursor
+                0x0800127c       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x0800127c                OLED_SetCursor
+ .text.OLED_Clear
+                0x0800129c       0x2c CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x0800129c                OLED_Clear
+ .text.OLED_ShowChar
+                0x080012c8       0x64 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x080012c8                OLED_ShowChar
+ .text.OLED_ShowString
+                0x0800132c       0x2e CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x0800132c                OLED_ShowString
+ *fill*         0x0800135a        0x2 
+ .text.OLED_BlackWhite_Switch
+                0x0800135c       0xcc CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x0800135c                OLED_BlackWhite_Switch
+ .text.OLED_Init
+                0x08001428       0xb6 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x08001428                OLED_Init
+ *fill*         0x080014de        0x2 
+ .text.MX_SPI1_Init
+                0x080014e0       0x44 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+                0x080014e0                MX_SPI1_Init
+ .text.HAL_SPI_MspInit
+                0x08001524       0x74 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+                0x08001524                HAL_SPI_MspInit
+ .text.HAL_MspInit
+                0x08001598       0x30 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08001598                HAL_MspInit
+ .text.NMI_Handler
+                0x080015c8        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015c8                NMI_Handler
+ .text.HardFault_Handler
+                0x080015ca        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015ca                HardFault_Handler
+ .text.MemManage_Handler
+                0x080015cc        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015cc                MemManage_Handler
+ .text.BusFault_Handler
+                0x080015ce        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015ce                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080015d0        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015d0                UsageFault_Handler
+ .text.SVC_Handler
+                0x080015d2        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015d2                SVC_Handler
+ .text.DebugMon_Handler
+                0x080015d4        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015d4                DebugMon_Handler
+ .text.PendSV_Handler
+                0x080015d6        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015d6                PendSV_Handler
+ .text.SysTick_Handler
+                0x080015d8        0x8 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015d8                SysTick_Handler
+ .text.EXTI3_IRQHandler
+                0x080015e0        0xa CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015e0                EXTI3_IRQHandler
+ .text.EXTI4_IRQHandler
+                0x080015ea        0xa CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015ea                EXTI4_IRQHandler
+ .text.DMA1_Channel1_IRQHandler
+                0x080015f4       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080015f4                DMA1_Channel1_IRQHandler
+ .text.EXTI9_5_IRQHandler
+                0x08001604       0x12 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08001604                EXTI9_5_IRQHandler
+ *fill*         0x08001616        0x2 
+ .text.TIM4_IRQHandler
+                0x08001618       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08001618                TIM4_IRQHandler
+ .text.EXTI15_10_IRQHandler
+                0x08001628        0xc CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08001628                EXTI15_10_IRQHandler
+ .text.SystemInit
+                0x08001634        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08001634                SystemInit
+ *fill*         0x08001636        0x2 
+ .text.MX_TIM4_Init
+                0x08001638       0x70 CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+                0x08001638                MX_TIM4_Init
+ .text.HAL_TIM_Base_MspInit
+                0x080016a8       0x40 CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+                0x080016a8                HAL_TIM_Base_MspInit
+ .text.Reset_Handler
+                0x080016e8       0x48 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x080016e8                Reset_Handler
+ .text.Default_Handler
+                0x08001730        0x2 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x08001730                RTC_Alarm_IRQHandler
+                0x08001730                EXTI2_IRQHandler
+                0x08001730                TIM1_CC_IRQHandler
+                0x08001730                PVD_IRQHandler
+                0x08001730                EXTI0_IRQHandler
+                0x08001730                I2C2_EV_IRQHandler
+                0x08001730                ADC1_2_IRQHandler
+                0x08001730                SPI1_IRQHandler
+                0x08001730                TAMPER_IRQHandler
+                0x08001730                DMA1_Channel4_IRQHandler
+                0x08001730                USART3_IRQHandler
+                0x08001730                RTC_IRQHandler
+                0x08001730                DMA1_Channel7_IRQHandler
+                0x08001730                CAN1_RX1_IRQHandler
+                0x08001730                I2C1_EV_IRQHandler
+                0x08001730                DMA1_Channel6_IRQHandler
+                0x08001730                TIM3_IRQHandler
+                0x08001730                RCC_IRQHandler
+                0x08001730                TIM1_TRG_COM_IRQHandler
+                0x08001730                Default_Handler
+                0x08001730                SPI2_IRQHandler
+                0x08001730                DMA1_Channel5_IRQHandler
+                0x08001730                USB_LP_CAN1_RX0_IRQHandler
+                0x08001730                USB_HP_CAN1_TX_IRQHandler
+                0x08001730                DMA1_Channel3_IRQHandler
+                0x08001730                TIM1_UP_IRQHandler
+                0x08001730                WWDG_IRQHandler
+                0x08001730                TIM2_IRQHandler
+                0x08001730                TIM1_BRK_IRQHandler
+                0x08001730                EXTI1_IRQHandler
+                0x08001730                USART2_IRQHandler
+                0x08001730                I2C2_ER_IRQHandler
+                0x08001730                DMA1_Channel2_IRQHandler
+                0x08001730                CAN1_SCE_IRQHandler
+                0x08001730                FLASH_IRQHandler
+                0x08001730                USART1_IRQHandler
+                0x08001730                I2C1_ER_IRQHandler
+                0x08001730                USBWakeUp_IRQHandler
+ *fill*         0x08001732        0x2 
+ .text.HAL_InitTick
+                0x08001734       0x4c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08001734                HAL_InitTick
+ .text.HAL_Init
+                0x08001780       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08001780                HAL_Init
+ .text.HAL_IncTick
+                0x080017a4       0x18 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080017a4                HAL_IncTick
+ .text.HAL_GetTick
+                0x080017bc        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080017bc                HAL_GetTick
+ .text.HAL_Delay
+                0x080017c8       0x28 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080017c8                HAL_Delay
+ .text.HAL_ADC_PollForConversion
+                0x080017f0      0x184 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x080017f0                HAL_ADC_PollForConversion
+ .text.HAL_ADC_ConvCpltCallback
+                0x08001974        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x08001974                HAL_ADC_ConvCpltCallback
+ .text.ADC_DMAConvCplt
+                0x08001976       0x52 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x08001976                ADC_DMAConvCplt
+ .text.HAL_ADC_ConvHalfCpltCallback
+                0x080019c8        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x080019c8                HAL_ADC_ConvHalfCpltCallback
+ .text.ADC_DMAHalfConvCplt
+                0x080019ca        0xa CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x080019ca                ADC_DMAHalfConvCplt
+ .text.HAL_ADC_ErrorCallback
+                0x080019d4        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x080019d4                HAL_ADC_ErrorCallback
+ .text.ADC_DMAError
+                0x080019d6       0x1a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x080019d6                ADC_DMAError
+ .text.HAL_ADC_ConfigChannel
+                0x080019f0      0x144 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x080019f0                HAL_ADC_ConfigChannel
+ .text.HAL_ADC_GetState
+                0x08001b34        0x4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x08001b34                HAL_ADC_GetState
+ .text.ADC_Enable
+                0x08001b38       0x88 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x08001b38                ADC_Enable
+ .text.HAL_ADC_Start
+                0x08001bc0       0xe8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x08001bc0                HAL_ADC_Start
+ .text.HAL_ADC_Start_DMA
+                0x08001ca8      0x130 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x08001ca8                HAL_ADC_Start_DMA
+ .text.ADC_ConversionStop_Disable
+                0x08001dd8       0x56 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x08001dd8                ADC_ConversionStop_Disable
+ *fill*         0x08001e2e        0x2 
+ .text.HAL_ADC_Init
+                0x08001e30      0x108 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x08001e30                HAL_ADC_Init
+ .text.HAL_ADCEx_Calibration_Start
+                0x08001f38      0x100 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+                0x08001f38                HAL_ADCEx_Calibration_Start
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08002038       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08002038                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x0800205c       0x70 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0800205c                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x080020cc       0x1c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080020cc                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x080020e8       0x28 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080020e8                HAL_SYSTICK_Config
+ .text.DMA_SetConfig
+                0x08002110       0x2c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x0800213c       0x6c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x0800213c                HAL_DMA_Init
+ .text.HAL_DMA_Start_IT
+                0x080021a8       0x76 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x080021a8                HAL_DMA_Start_IT
+ *fill*         0x0800221e        0x2 
+ .text.HAL_DMA_IRQHandler
+                0x08002220      0x144 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x08002220                HAL_DMA_IRQHandler
+ .text.HAL_GPIO_Init
+                0x08002364      0x224 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08002364                HAL_GPIO_Init
+ .text.HAL_GPIO_ReadPin
+                0x08002588        0xe CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08002588                HAL_GPIO_ReadPin
+ .text.HAL_GPIO_WritePin
+                0x08002596        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08002596                HAL_GPIO_WritePin
+ *fill*         0x080025a2        0x2 
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x080025a4       0x1c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x080025a4                HAL_GPIO_EXTI_IRQHandler
+ .text.I2C_IsAcknowledgeFailed
+                0x080025c0       0x32 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnFlagUntilTimeout
+                0x080025f2       0xaa CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnMasterAddressFlagUntilTimeout
+                0x0800269c       0xd6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnTXEFlagUntilTimeout
+                0x08002772       0x5e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_RequestMemoryWrite
+                0x080027d0       0xd8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnBTFFlagUntilTimeout
+                0x080028a8       0x5e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ *fill*         0x08002906        0x2 
+ .text.HAL_I2C_Init
+                0x08002908      0x1bc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x08002908                HAL_I2C_Init
+ .text.HAL_I2C_Mem_Write
+                0x08002ac4      0x164 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x08002ac4                HAL_I2C_Mem_Write
+ .text.RCC_Delay
+                0x08002c28       0x2c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_OscConfig
+                0x08002c54      0x410 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08002c54                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08003064       0x54 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08003064                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x080030b8      0x16c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080030b8                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetHCLKFreq
+                0x08003224        0xc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08003224                HAL_RCC_GetHCLKFreq
+ .text.HAL_RCC_GetPCLK1Freq
+                0x08003230       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08003230                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCC_GetPCLK2Freq
+                0x08003250       0x20 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08003250                HAL_RCC_GetPCLK2Freq
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x08003270      0x118 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+                0x08003270                HAL_RCCEx_PeriphCLKConfig
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x08003388       0xd8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+                0x08003388                HAL_RCCEx_GetPeriphCLKFreq
+ .text.SPI_WaitFlagStateUntilTimeout
+                0x08003460       0xd4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_EndRxTxTransaction
+                0x08003534       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_EndRxTransaction
+                0x08003558       0x74 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Init
+                0x080035cc       0xb6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+                0x080035cc                HAL_SPI_Init
+ .text.HAL_SPI_Transmit
+                0x08003682      0x1b8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+                0x08003682                HAL_SPI_Transmit
+ .text.HAL_SPI_TransmitReceive
+                0x0800383a      0x244 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+                0x0800383a                HAL_SPI_TransmitReceive
+ .text.HAL_SPI_Receive
+                0x08003a7e      0x17e CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+                0x08003a7e                HAL_SPI_Receive
+ .text.TIM_TI1_ConfigInputStage
+                0x08003bfc       0x24 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI2_ConfigInputStage
+                0x08003c20       0x26 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_ITRx_SetConfig
+                0x08003c46       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Stop
+                0x08003c56       0x28 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08003c56                HAL_TIM_Base_Stop
+ *fill*         0x08003c7e        0x2 
+ .text.HAL_TIM_Base_Start_IT
+                0x08003c80       0x68 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08003c80                HAL_TIM_Base_Start_IT
+ .text.HAL_TIM_OC_DelayElapsedCallback
+                0x08003ce8        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08003ce8                HAL_TIM_OC_DelayElapsedCallback
+ .text.HAL_TIM_IC_CaptureCallback
+                0x08003cea        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08003cea                HAL_TIM_IC_CaptureCallback
+ .text.HAL_TIM_PWM_PulseFinishedCallback
+                0x08003cec        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08003cec                HAL_TIM_PWM_PulseFinishedCallback
+ .text.HAL_TIM_TriggerCallback
+                0x08003cee        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08003cee                HAL_TIM_TriggerCallback
+ .text.HAL_TIM_IRQHandler
+                0x08003cf0      0x17a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08003cf0                HAL_TIM_IRQHandler
+ *fill*         0x08003e6a        0x2 
+ .text.TIM_Base_SetConfig
+                0x08003e6c       0x74 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08003e6c                TIM_Base_SetConfig
+ .text.HAL_TIM_Base_Init
+                0x08003ee0       0x58 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08003ee0                HAL_TIM_Base_Init
+ .text.TIM_ETR_SetConfig
+                0x08003f38       0x18 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08003f38                TIM_ETR_SetConfig
+ .text.HAL_TIM_ConfigClockSource
+                0x08003f50       0xfe CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08003f50                HAL_TIM_ConfigClockSource
+ *fill*         0x0800404e        0x2 
+ .text.HAL_TIMEx_MasterConfigSynchronization
+                0x08004050       0x6c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x08004050                HAL_TIMEx_MasterConfigSynchronization
+ .text.HAL_TIMEx_CommutCallback
+                0x080040bc        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x080040bc                HAL_TIMEx_CommutCallback
+ .text.HAL_TIMEx_BreakCallback
+                0x080040be        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x080040be                HAL_TIMEx_BreakCallback
+ .text.__libc_init_array
+                0x080040c0       0x48 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x080040c0                __libc_init_array
+ .text.memset   0x08004108       0xa4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                0x08004108                memset
+ .text.strlen   0x080041ac       0x5c d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+                0x080041ac                strlen
+ .text.startup.register_fini
+                0x08004208       0x14 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x0800421c        0xc d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x0800421c                atexit
+ .text.__libc_fini_array
+                0x08004228       0x2c d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x08004228                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08004254        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08004254                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08004258        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08004258                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x0800425c       0x8c d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x0800425c                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x080042e8        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080042e8        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080042e8        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x080042e8        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x080042e8                _init
+ .init          0x080042ec        0x8 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x080042f4        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x080042f4                _fini
+ .fini          0x080042f8        0x8 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x08004300                . = ALIGN (0x4)
+                0x08004300                _etext = .
+
+.vfp11_veneer   0x08004300        0x0
+ .vfp11_veneer  0x08004300        0x0 linker stubs
+
+.v4_bx          0x08004300        0x0
+ .v4_bx         0x08004300        0x0 linker stubs
+
+.iplt           0x08004300        0x0
+ .iplt          0x08004300        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x08004300      0x7b8
+                0x08004300                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.HAL_GPIO_EXTI_Callback.str1.4
+                0x08004300      0x173 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ *fill*         0x08004473        0x1 
+ .rodata.NRF_Check.str1.4
+                0x08004474        0x6 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ *fill*         0x0800447a        0x2 
+ .rodata.INIT_ADDR0
+                0x0800447c        0x5 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+                0x0800447c                INIT_ADDR0
+ *fill*         0x08004481        0x3 
+ .rodata.OLED_F8x16
+                0x08004484      0x5f0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x08004484                OLED_F8x16
+ .rodata.AHBPrescTable
+                0x08004a74       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08004a74                AHBPrescTable
+ .rodata.APBPrescTable
+                0x08004a84        0x8 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08004a84                APBPrescTable
+ .rodata.aPLLMULFactorTable.1
+                0x08004a8c       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .rodata.aPredivFactorTable.0
+                0x08004a9c        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *fill*         0x08004a9e        0x2 
+ .rodata.aPLLMULFactorTable.1
+                0x08004aa0       0x10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata.aPredivFactorTable.0
+                0x08004ab0        0x2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ *fill*         0x08004ab2        0x2 
+ .rodata._global_impure_ptr
+                0x08004ab4        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x08004ab4                _global_impure_ptr
+                0x08004ab8                . = ALIGN (0x4)
+
+.rel.dyn        0x08004ab8        0x0
+ .rel.iplt      0x08004ab8        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab      0x08004ab8        0x0
+                0x08004ab8                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08004ab8                . = ALIGN (0x4)
+
+.ARM            0x08004ab8        0x0
+                0x08004ab8                . = ALIGN (0x4)
+                0x08004ab8                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08004ab8                __exidx_end = .
+                0x08004ab8                . = ALIGN (0x4)
+
+.preinit_array  0x08004ab8        0x0
+                0x08004ab8                . = ALIGN (0x4)
+                0x08004ab8                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08004ab8                PROVIDE (__preinit_array_end = .)
+                0x08004ab8                . = ALIGN (0x4)
+
+.init_array     0x08004ab8        0x8
+                0x08004ab8                . = ALIGN (0x4)
+                0x08004ab8                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08004ab8        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08004abc        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x08004ac0                PROVIDE (__init_array_end = .)
+                0x08004ac0                . = ALIGN (0x4)
+
+.fini_array     0x08004ac0        0x4
+                0x08004ac0                . = ALIGN (0x4)
+                0x08004ac0                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08004ac0        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x08004ac4                PROVIDE (__fini_array_end = .)
+                0x08004ac4                . = ALIGN (0x4)
+                0x08004ac4                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x444 load address 0x08004ac4
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.Down_Limit
+                0x20000000        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x20000000                Down_Limit
+ .data.Key_OK   0x20000001        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x20000001                Key_OK
+ .data.Menu_Level
+                0x20000002        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x20000002                Menu_Level
+ .data.Up_Limit
+                0x20000003        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x20000003                Up_Limit
+ .data.delay_250ms
+                0x20000004        0x4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x20000004                delay_250ms
+ .data.SystemCoreClock
+                0x20000008        0x4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x20000008                SystemCoreClock
+ .data.uwTickFreq
+                0x2000000c        0x1 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x2000000c                uwTickFreq
+ *fill*         0x2000000d        0x3 
+ .data.uwTickPrio
+                0x20000010        0x4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000010                uwTickPrio
+ *fill*         0x20000014        0x4 
+ .data.impure_data
+                0x20000018      0x428 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000440        0x4 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000440                __atexit_recursive_mutex
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x20000444                . = ALIGN (0x4)
+                0x20000444                _edata = .
+
+.igot.plt       0x20000444        0x0 load address 0x08004f08
+ .igot.plt      0x20000444        0x0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x20000444                . = ALIGN (0x4)
+
+.bss            0x20000444      0x350 load address 0x08004f08
+                0x20000444                _sbss = .
+                0x20000444                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000444       0x1c d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.hadc1     0x20000460       0x30 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+                0x20000460                hadc1
+ .bss.hdma_adc1
+                0x20000490       0x44 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+                0x20000490                hdma_adc1
+ .bss.hi2c1     0x200004d4       0x54 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+                0x200004d4                hi2c1
+ .bss.Boost_State
+                0x20000528        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x20000528                Boost_State
+ .bss.Detect_Mode_State
+                0x20000529        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x20000529                Detect_Mode_State
+ .bss.Focus_Line
+                0x2000052a        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x2000052a                Focus_Line
+ .bss.Menu_State
+                0x2000052b        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x2000052b                Menu_State
+ .bss.Platform_Mode_State
+                0x2000052c        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x2000052c                Platform_Mode_State
+ .bss.Roller_UD_Control_State
+                0x2000052d        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x2000052d                Roller_UD_Control_State
+ .bss.SaveData_Should_Cpy
+                0x2000052e        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x2000052e                SaveData_Should_Cpy
+ .bss.Shovel_Manual_State
+                0x2000052f        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x2000052f                Shovel_Manual_State
+ .bss.Trans_State
+                0x20000530        0x1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x20000530                Trans_State
+ *fill*         0x20000531        0x3 
+ .bss.txbuf     0x20000534       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                0x20000534                txbuf
+ .bss.Data_Category
+                0x20000554       0x44 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x20000554                Data_Category
+ .bss.SaveDataOne
+                0x20000598       0x44 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x20000598                SaveDataOne
+ .bss.SaveDataTwoA
+                0x200005dc       0x44 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x200005dc                SaveDataTwoA
+ .bss.SaveDataTwoB
+                0x20000620       0x44 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x20000620                SaveDataTwoB
+ .bss.SaveDataTwoC
+                0x20000664       0x44 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x20000664                SaveDataTwoC
+ .bss.SaveDataTwoD
+                0x200006a8       0x44 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                0x200006a8                SaveDataTwoD
+ .bss.hspi1     0x200006ec       0x58 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+                0x200006ec                hspi1
+ .bss.htim4     0x20000744       0x48 CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+                0x20000744                htim4
+ .bss.uwTick    0x2000078c        0x4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x2000078c                uwTick
+ .bss.__lock___atexit_recursive_mutex
+                0x20000790        0x1 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x20000790                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x20000794                . = ALIGN (0x4)
+ *fill*         0x20000791        0x3 
+                0x20000794                _ebss = .
+                0x20000794                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000794      0x604 load address 0x08004f08
+                0x20000798                . = ALIGN (0x8)
+ *fill*         0x20000794        0x4 
+                [!provide]                PROVIDE (end = .)
+                0x20000798                PROVIDE (_end = .)
+                0x20000998                . = (. + _Min_Heap_Size)
+ *fill*         0x20000798      0x200 
+                0x20000d98                . = (. + _Min_Stack_Size)
+ *fill*         0x20000998      0x400 
+                0x20000d98                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .ARM.attributes
+                0x00000077       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+ .ARM.attributes
+                0x000000a4       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+ .ARM.attributes
+                0x000000d1       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .ARM.attributes
+                0x000000fe       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x0000012b       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .ARM.attributes
+                0x00000158       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .ARM.attributes
+                0x00000185       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .ARM.attributes
+                0x000001b2       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .ARM.attributes
+                0x000001df       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .ARM.attributes
+                0x0000020c       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .ARM.attributes
+                0x00000239       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x00000266       0x2d CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .ARM.attributes
+                0x00000293       0x21 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .ARM.attributes
+                0x000002b4       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .ARM.attributes
+                0x000002e1       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .ARM.attributes
+                0x0000030e       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .ARM.attributes
+                0x0000033b       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000368       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .ARM.attributes
+                0x00000395       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x000003c2       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .ARM.attributes
+                0x000003ef       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x0000041c       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000449       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .ARM.attributes
+                0x00000476       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .ARM.attributes
+                0x000004a3       0x2d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x000004d0       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000004fd       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000052a       0x1b d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000545       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000572       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x0000059f       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000005cc       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000005f9       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000626       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000653       0x2d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000680       0x1d d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(RemoteContoller.elf elf32-littlearm)
+LOAD linker stubs
+LOAD d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+LOAD d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+
+.debug_info     0x00000000    0x16e4f
+ .debug_info    0x00000000      0x92f CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .debug_info    0x0000092f      0x2f4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+ .debug_info    0x00000c23      0x5c9 CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x000011ec      0x8a4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .debug_info    0x00001a90     0x15a8 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00003038      0x2db CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .debug_info    0x00003313      0xde1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .debug_info    0x000040f4     0x1071 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .debug_info    0x00005165      0x873 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .debug_info    0x000059d8      0x17c CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x00005b54      0x80e CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x00006362      0x248 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x000065aa      0xa5c CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .debug_info    0x00007006       0x22 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_info    0x00007028      0x7a8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x000077d0      0xf3f CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_info    0x0000870f      0xc40 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_info    0x0000934f      0xd8a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x0000a0d9      0x84b CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x0000a924      0x66f CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x0000af93     0x3ab6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_info    0x0000ea49      0xa3b CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x0000f484      0x449 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_info    0x0000f8cd     0x1d75 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_info    0x00011642     0x3d52 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x00015394     0x1abb CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+
+.debug_abbrev   0x00000000     0x309a
+ .debug_abbrev  0x00000000      0x1c9 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .debug_abbrev  0x000001c9      0x114 CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+ .debug_abbrev  0x000002dd      0x158 CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x00000435      0x1c1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .debug_abbrev  0x000005f6      0x2ae CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x000008a4       0xc3 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .debug_abbrev  0x00000967      0x219 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .debug_abbrev  0x00000b80      0x277 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .debug_abbrev  0x00000df7      0x1c1 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .debug_abbrev  0x00000fb8       0xbf CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x00001077      0x1cc CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x00001243      0x13e CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x00001381      0x1de CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .debug_abbrev  0x0000155f       0x12 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_abbrev  0x00001571      0x1f4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00001765      0x1fc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_abbrev  0x00001961      0x248 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_abbrev  0x00001ba9      0x341 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x00001eea      0x223 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x0000210d      0x1e6 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x000022f3      0x293 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_abbrev  0x00002586      0x27a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x00002800      0x1d2 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x000029d2      0x23b CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_abbrev  0x00002c0d      0x245 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x00002e52      0x248 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+
+.debug_loc      0x00000000    0x10acc
+ .debug_loc     0x00000000       0x71 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .debug_loc     0x00000071       0x67 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .debug_loc     0x000000d8       0xb3 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .debug_loc     0x0000018b      0x255 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .debug_loc     0x000003e0      0x575 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .debug_loc     0x00000955       0x84 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .debug_loc     0x000009d9       0xff CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_loc     0x00000ad8       0x67 CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .debug_loc     0x00000b3f      0x141 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_loc     0x00000c80      0xb03 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_loc     0x00001783      0x801 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_loc     0x00001f84      0x71f CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_loc     0x000026a3      0x7d1 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_loc     0x00002e74      0x47d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_loc     0x000032f1     0x41ca CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_loc     0x000074bb      0x618 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_loc     0x00007ad3      0x43d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_loc     0x00007f10     0x1e2f CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_loc     0x00009d3f     0x50fa CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_loc     0x0000ee39     0x1c93 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+
+.debug_aranges  0x00000000     0x11e8
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .debug_aranges
+                0x00000030       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+ .debug_aranges
+                0x00000050       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+ .debug_aranges
+                0x00000070       0x30 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .debug_aranges
+                0x000000a0       0x48 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x000000e8       0x98 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .debug_aranges
+                0x00000180       0x60 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .debug_aranges
+                0x000001e0       0x80 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .debug_aranges
+                0x00000260       0x30 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .debug_aranges
+                0x00000290       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_aranges
+                0x000002b0       0x90 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_aranges
+                0x00000340       0x28 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_aranges
+                0x00000368       0x30 CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .debug_aranges
+                0x00000398       0x28 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_aranges
+                0x000003c0       0xe0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_aranges
+                0x000004a0       0xf0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_aranges
+                0x00000590       0x80 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_aranges
+                0x00000610       0x90 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_aranges
+                0x000006a0       0x80 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_aranges
+                0x00000720       0x58 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_aranges
+                0x00000778      0x2a8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_aranges
+                0x00000a20       0x90 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000ab0       0x30 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000ae0      0x1d0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_aranges
+                0x00000cb0      0x3d0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_aranges
+                0x00001080      0x168 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+
+.debug_ranges   0x00000000     0x1100
+ .debug_ranges  0x00000000       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .debug_ranges  0x00000020       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+ .debug_ranges  0x00000030       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+ .debug_ranges  0x00000040       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .debug_ranges  0x00000060       0x38 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x00000098       0x88 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .debug_ranges  0x00000120       0x50 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .debug_ranges  0x00000170       0x70 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .debug_ranges  0x000001e0       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .debug_ranges  0x00000200       0x10 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_ranges  0x00000210       0x80 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_ranges  0x00000290       0x18 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_ranges  0x000002a8       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .debug_ranges  0x000002c8       0x20 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_ranges  0x000002e8       0xd0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x000003b8       0xe0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_ranges  0x00000498       0x70 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_ranges  0x00000508       0xe0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x000005e8       0x70 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_ranges  0x00000658       0x48 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x000006a0      0x2b0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_ranges  0x00000950       0xa0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_ranges  0x000009f0       0x38 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000a28      0x1c0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_ranges  0x00000be8      0x3c0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_ranges  0x00000fa8      0x158 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+
+.debug_line     0x00000000    0x15ea2
+ .debug_line    0x00000000      0x408 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .debug_line    0x00000408      0x1da CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+ .debug_line    0x000005e2      0x29a CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x0000087c      0x333 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .debug_line    0x00000baf      0x973 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00001522      0x29d CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .debug_line    0x000017bf      0x43f CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .debug_line    0x00001bfe      0x965 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .debug_line    0x00002563      0x368 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .debug_line    0x000028cb      0x193 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x00002a5e      0x3bc CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x00002e1a      0x262 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x0000307c      0x34e CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .debug_line    0x000033ca       0xa2 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_line    0x0000346c      0x588 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x000039f4      0xf28 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_line    0x0000491c      0xc10 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_line    0x0000552c      0x674 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x00005ba0      0xa95 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x00006635      0x61c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00006c51     0x564a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_line    0x0000c29b      0xc59 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x0000cef4      0x4ce CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000d3c2     0x2503 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_line    0x0000f8c5     0x49b4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x00014279     0x1c29 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+
+.debug_str      0x00000000     0x507f
+ .debug_str     0x00000000      0x5a3 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+                                0x67b (size before relaxing)
+ .debug_str     0x000005a3      0x337 CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+                                0x516 (size before relaxing)
+ .debug_str     0x000008da       0x6a CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+                                0x5b0 (size before relaxing)
+ .debug_str     0x00000944      0x2e4 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+                                0x76a (size before relaxing)
+ .debug_str     0x00000c28      0x757 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+                                0xd26 (size before relaxing)
+ .debug_str     0x0000137f      0x149 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+                                0x34f (size before relaxing)
+ .debug_str     0x000014c8      0x2fd CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+                                0x758 (size before relaxing)
+ .debug_str     0x000017c5      0x12a CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+                                0x83d (size before relaxing)
+ .debug_str     0x000018ef       0x5a CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+                                0x6c1 (size before relaxing)
+ .debug_str     0x00001949       0x48 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                                0x227 (size before relaxing)
+ .debug_str     0x00001991      0x185 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                                0x7f6 (size before relaxing)
+ .debug_str     0x00001b16       0x9a CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                                0x28a (size before relaxing)
+ .debug_str     0x00001bb0      0x16c CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+                                0xb4f (size before relaxing)
+ .debug_str     0x00001d1c       0x52 CMakeFiles/RemoteContoller.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                                 0x83 (size before relaxing)
+ .debug_str     0x00001d6e      0x316 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                0x85a (size before relaxing)
+ .debug_str     0x00002084      0x310 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                                0x910 (size before relaxing)
+ .debug_str     0x00002394      0x291 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+                                0x8c2 (size before relaxing)
+ .debug_str     0x00002625      0x3ba CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                                0x909 (size before relaxing)
+ .debug_str     0x000029df      0x20d CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                                0x633 (size before relaxing)
+ .debug_str     0x00002bec      0x10b CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                                0x436 (size before relaxing)
+ .debug_str     0x00002cf7      0x8cd CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                                0xffb (size before relaxing)
+ .debug_str     0x000035c4      0x1e1 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                                0x661 (size before relaxing)
+ .debug_str     0x000037a5       0xa0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+                                0x409 (size before relaxing)
+ .debug_str     0x00003845      0x4f0 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+                                0xb9d (size before relaxing)
+ .debug_str     0x00003d35      0xe0a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                               0x1675 (size before relaxing)
+ .debug_str     0x00004b3f      0x540 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                                0xe76 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+
+.debug_frame    0x00000000     0x3390
+ .debug_frame   0x00000000       0x68 CMakeFiles/RemoteContoller.elf.dir/Core/Src/adc.c.obj
+ .debug_frame   0x00000068       0x2c CMakeFiles/RemoteContoller.elf.dir/Core/Src/dma.c.obj
+ .debug_frame   0x00000094       0x34 CMakeFiles/RemoteContoller.elf.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x000000c8       0x60 CMakeFiles/RemoteContoller.elf.dir/Core/Src/i2c.c.obj
+ .debug_frame   0x00000128       0xa0 CMakeFiles/RemoteContoller.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x000001c8      0x130 CMakeFiles/RemoteContoller.elf.dir/Core/Src/menucontrol.c.obj
+ .debug_frame   0x000002f8      0x114 CMakeFiles/RemoteContoller.elf.dir/Core/Src/nrf24.c.obj
+ .debug_frame   0x0000040c      0x180 CMakeFiles/RemoteContoller.elf.dir/Core/Src/oled.c.obj
+ .debug_frame   0x0000058c       0x60 CMakeFiles/RemoteContoller.elf.dir/Core/Src/spi.c.obj
+ .debug_frame   0x000005ec       0x28 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x00000614      0x138 CMakeFiles/RemoteContoller.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x0000074c       0x30 CMakeFiles/RemoteContoller.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x0000077c       0x64 CMakeFiles/RemoteContoller.elf.dir/Core/Src/tim.c.obj
+ .debug_frame   0x000007e0      0x1cc CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x000009ac      0x2c8 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_frame   0x00000c74      0x19c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_frame   0x00000e10      0x118 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x00000f28      0x144 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_frame   0x0000106c       0xe4 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x00001150      0x984 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_frame   0x00001ad4      0x184 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x00001c58       0x5c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00001cb4      0x5ac CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_frame   0x00002260      0xb18 CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_frame   0x00002d78      0x40c CMakeFiles/RemoteContoller.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_frame   0x00003184       0x2c d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x000031b0       0x2c d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x000031dc       0x20 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-strlen-stub.o)
+ .debug_frame   0x000031fc       0x5c d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00003258       0x20 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00003278       0x34 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x000032ac       0xb0 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x0000335c       0x34 d:/stm32platform/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
